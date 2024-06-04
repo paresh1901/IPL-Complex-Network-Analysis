@@ -12,12 +12,12 @@ performance and contribute to the understanding of individual contributions to t
 1. Open a terminal or command prompt and navigate to your project directory.
 2. Activate the virtual environment using the following command:
 
-source env/Scripts/activate
+`source env/Scripts/activate`
 
 3. Once activated, the terminal prompt will likely change to indicate you're working within the environment.
 4. Install the required libraries listed in the requirements.txt file using:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 
