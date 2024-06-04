@@ -1,3 +1,5 @@
+![Alt text for image](readme.png)
+
 # Comparing individual performance of Batsmen and Bowlers using a Complex Network Analysis
 
 Quantifying individual performance in cricket is essential for team selection and understanding player contributions to team success. This project applies concepts from social network analysis (SNA) to analyze the performance of batsmen and bowlers using a dataset. The dataset comprises four major parts: (1) batsmen facing specific bowlers, (2) overall batting averages for batsmen,
