@@ -1,0 +1,724 @@
+batsman,bowler,runs
+Shubman Gill,PVD Chameera,17
+V Shankar,PVD Chameera,2
+MS Wade,Avesh Khan,5
+V Shankar,Avesh Khan,8
+HH Pandya,PVD Chameera,10
+MS Wade,Mohsin Khan,13
+HH Pandya,Mohsin Khan,8
+HH Pandya,Avesh Khan,12
+MS Wade,Ravi Bishnoi,6
+HH Pandya,KH Pandya,14
+MS Wade,KH Pandya,6
+HH Pandya,Ravi Bishnoi,43
+DA Miller,KH Pandya,7
+DA Miller,DJ Hooda,16
+MS Wade,DJ Hooda,1
+R Tewatia,DJ Hooda,14
+R Tewatia,KH Pandya,3
+DA Miller,Ravi Bishnoi,5
+R Tewatia,Ravi Bishnoi,16
+DA Miller,Avesh Khan,24
+A Manohar,Avesh Khan,10
+R Tewatia,Avesh Khan,13
+A Manohar,PVD Chameera,5
+R Tewatia,PVD Chameera,6
+MS Wade,Mustafizur Rahman,1
+Shubman Gill,Mustafizur Rahman,7
+V Shankar,Mustafizur Rahman,6
+V Shankar,SN Thakur,23
+Shubman Gill,SN Thakur,32
+Shubman Gill,KK Ahmed,21
+V Shankar,KK Ahmed,8
+V Shankar,AR Patel,3
+Shubman Gill,AR Patel,25
+V Shankar,Kuldeep Yadav,8
+HH Pandya,Kuldeep Yadav,15
+Shubman Gill,Kuldeep Yadav,20
+HH Pandya,AR Patel,19
+HH Pandya,KK Ahmed,28
+HH Pandya,SN Thakur,7
+DA Miller,Kuldeep Yadav,14
+DA Miller,AR Patel,3
+DA Miller,Mustafizur Rahman,15
+R Tewatia,KK Ahmed,7
+DA Miller,KK Ahmed,11
+DA Miller,SN Thakur,8
+R Tewatia,SN Thakur,9
+R Tewatia,Mustafizur Rahman,1
+A Manohar,Mustafizur Rahman,1
+Rashid Khan,Mustafizur Rahman,0
+MS Wade,VG Arora,6
+Shubman Gill,VG Arora,24
+Shubman Gill,Arshdeep Singh,50
+Shubman Gill,K Rabada,66
+MS Wade,K Rabada,0
+B Sai Sudharsan,K Rabada,28
+B Sai Sudharsan,VG Arora,4
+B Sai Sudharsan,RD Chahar,20
+Shubman Gill,RD Chahar,38
+B Sai Sudharsan,OF Smith,7
+Shubman Gill,OF Smith,9
+Shubman Gill,LS Livingstone,15
+B Sai Sudharsan,LS Livingstone,19
+B Sai Sudharsan,Arshdeep Singh,31
+HH Pandya,RD Chahar,10
+HH Pandya,Arshdeep Singh,9
+HH Pandya,K Rabada,15
+DA Miller,K Rabada,7
+DA Miller,OF Smith,5
+R Tewatia,OF Smith,13
+MS Wade,B Kumar,9
+Shubman Gill,B Kumar,26
+Shubman Gill,M Jansen,16
+MS Wade,M Jansen,2
+B Sai Sudharsan,B Kumar,20
+MS Wade,Washington Sundar,7
+B Sai Sudharsan,Washington Sundar,10
+B Sai Sudharsan,M Jansen,22
+MS Wade,T Natarajan,1
+B Sai Sudharsan,T Natarajan,11
+HH Pandya,T Natarajan,10
+HH Pandya,Washington Sundar,6
+HH Pandya,Umran Malik,27
+MS Wade,Umran Malik,0
+HH Pandya,AK Markram,8
+DA Miller,AK Markram,1
+DA Miller,Umran Malik,13
+DA Miller,Washington Sundar,12
+DA Miller,T Natarajan,7
+DA Miller,M Jansen,3
+HH Pandya,M Jansen,10
+A Manohar,M Jansen,7
+A Manohar,Umran Malik,9
+HH Pandya,B Kumar,7
+A Manohar,B Kumar,8
+A Manohar,T Natarajan,11
+R Tewatia,B Kumar,8
+R Tewatia,T Natarajan,25
+Rashid Khan,T Natarajan,2
+MS Wade,JDS Neesham,12
+Shubman Gill,M Prasidh Krishna,16
+V Shankar,M Prasidh Krishna,1
+V Shankar,KR Sen,10
+Shubman Gill,KR Sen,10
+HH Pandya,KR Sen,24
+HH Pandya,YS Chahal,33
+Shubman Gill,YS Chahal,47
+HH Pandya,M Prasidh Krishna,28
+HH Pandya,R Parag,7
+Shubman Gill,R Parag,4
+A Manohar,R Parag,1
+A Manohar,JDS Neesham,10
+HH Pandya,JDS Neesham,7
+HH Pandya,R Ashwin,58
+A Manohar,R Ashwin,7
+A Manohar,YS Chahal,23
+A Manohar,KR Sen,5
+DA Miller,YS Chahal,42
+DA Miller,R Ashwin,28
+DA Miller,M Prasidh Krishna,40
+DA Miller,KR Sen,20
+WP Saha,Mukesh Choudhary,26
+Shubman Gill,Mukesh Choudhary,1
+WP Saha,M Theekshana,13
+V Shankar,M Theekshana,2
+A Manohar,M Theekshana,3
+A Manohar,Mukesh Choudhary,9
+DA Miller,M Theekshana,14
+WP Saha,CJ Jordan,3
+DA Miller,CJ Jordan,36
+DA Miller,Mukesh Choudhary,9
+DA Miller,RA Jadeja,24
+WP Saha,RA Jadeja,20
+DA Miller,MM Ali,14
+R Tewatia,MM Ali,3
+R Tewatia,RA Jadeja,3
+R Tewatia,DJ Bravo,0
+Rashid Khan,DJ Bravo,13
+Rashid Khan,CJ Jordan,52
+DA Miller,DJ Bravo,10
+Rashid Khan,M Theekshana,5
+AS Joseph,DJ Bravo,0
+WP Saha,UT Yadav,22
+Shubman Gill,UT Yadav,10
+Shubman Gill,TG Southee,0
+HH Pandya,TG Southee,18
+HH Pandya,UT Yadav,7
+WP Saha,TG Southee,1
+HH Pandya,Shivam Mavi,18
+WP Saha,Shivam Mavi,2
+WP Saha,SP Narine,4
+HH Pandya,SP Narine,20
+HH Pandya,CV Varun,17
+WP Saha,CV Varun,10
+DA Miller,UT Yadav,1
+DA Miller,SP Narine,28
+DA Miller,TG Southee,1
+DA Miller,CV Varun,11
+DA Miller,Shivam Mavi,0
+R Tewatia,Shivam Mavi,11
+R Tewatia,TG Southee,2
+Rashid Khan,TG Southee,0
+A Manohar,TG Southee,0
+A Manohar,Shivam Mavi,2
+A Manohar,AD Russell,0
+LH Ferguson,AD Russell,0
+AS Joseph,AD Russell,1
+R Tewatia,AD Russell,4
+Yash Dayal,AD Russell,0
+WP Saha,B Kumar,17
+WP Saha,M Jansen,26
+Shubman Gill,T Natarajan,23
+WP Saha,T Natarajan,13
+WP Saha,Washington Sundar,17
+Shubman Gill,Washington Sundar,21
+WP Saha,Umran Malik,2
+Shubman Gill,Umran Malik,0
+R Tewatia,Umran Malik,7
+DA Miller,B Kumar,7
+Rashid Khan,B Kumar,11
+R Tewatia,M Jansen,7
+Rashid Khan,M Jansen,18
+WP Saha,GJ Maxwell,6
+Shubman Gill,GJ Maxwell,7
+Shubman Gill,Mohammed Siraj,33
+WP Saha,Mohammed Siraj,17
+WP Saha,JR Hazlewood,7
+Shubman Gill,JR Hazlewood,3
+WP Saha,Shahbaz Ahmed,20
+Shubman Gill,Shahbaz Ahmed,22
+WP Saha,HV Patel,2
+Shubman Gill,HV Patel,45
+Shubman Gill,PWH de Silva,1
+WP Saha,PWH de Silva,6
+B Sai Sudharsan,PWH de Silva,10
+B Sai Sudharsan,Shahbaz Ahmed,6
+HH Pandya,Shahbaz Ahmed,2
+HH Pandya,PWH de Silva,13
+DA Miller,Shahbaz Ahmed,10
+B Sai Sudharsan,HV Patel,8
+DA Miller,HV Patel,18
+DA Miller,PWH de Silva,18
+R Tewatia,PWH de Silva,4
+R Tewatia,Mohammed Siraj,14
+DA Miller,Mohammed Siraj,10
+R Tewatia,HV Patel,30
+R Tewatia,JR Hazlewood,17
+DA Miller,JR Hazlewood,9
+WP Saha,Sandeep Sharma,16
+WP Saha,K Rabada,32
+Shubman Gill,Sandeep Sharma,14
+B Sai Sudharsan,Sandeep Sharma,12
+HH Pandya,Sandeep Sharma,0
+B Sai Sudharsan,R Dhawan,15
+HH Pandya,R Dhawan,0
+DA Miller,R Dhawan,5
+DA Miller,LS Livingstone,7
+DA Miller,Sandeep Sharma,12
+R Tewatia,LS Livingstone,1
+R Tewatia,R Dhawan,3
+R Tewatia,RD Chahar,3
+R Tewatia,Arshdeep Singh,15
+R Tewatia,K Rabada,16
+Rashid Khan,K Rabada,0
+PJ Sangwan,K Rabada,1
+PJ Sangwan,Arshdeep Singh,1
+LH Ferguson,Arshdeep Singh,1
+LH Ferguson,K Rabada,4
+AS Joseph,K Rabada,2
+AS Joseph,Arshdeep Singh,2
+WP Saha,DR Sams,2
+Shubman Gill,DR Sams,13
+WP Saha,JJ Bumrah,29
+Shubman Gill,M Ashwin,20
+WP Saha,M Ashwin,7
+WP Saha,RP Meredith,12
+Shubman Gill,JJ Bumrah,1
+Shubman Gill,K Kartikeya,34
+WP Saha,K Kartikeya,7
+Shubman Gill,RP Meredith,15
+WP Saha,KA Pollard,2
+Shubman Gill,KA Pollard,3
+HH Pandya,M Ashwin,2
+HH Pandya,RP Meredith,9
+B Sai Sudharsan,RP Meredith,5
+B Sai Sudharsan,K Kartikeya,6
+HH Pandya,K Kartikeya,7
+B Sai Sudharsan,KA Pollard,7
+HH Pandya,KA Pollard,1
+HH Pandya,JJ Bumrah,6
+DA Miller,JJ Bumrah,16
+DA Miller,RP Meredith,21
+R Tewatia,RP Meredith,8
+R Tewatia,JJ Bumrah,6
+DA Miller,DR Sams,1
+R Tewatia,DR Sams,1
+Rashid Khan,DR Sams,1
+WP Saha,Mohsin Khan,32
+Shubman Gill,Mohsin Khan,16
+WP Saha,PVD Chameera,4
+MS Wade,PVD Chameera,9
+Shubman Gill,Avesh Khan,39
+Shubman Gill,KH Pandya,40
+HH Pandya,JO Holder,6
+Shubman Gill,JO Holder,7
+DA Miller,JO Holder,13
+DA Miller,Mohsin Khan,4
+R Tewatia,Mohsin Khan,3
+R Tewatia,JO Holder,12
+Shubman Gill,Simarjeet Singh,25
+WP Saha,Simarjeet Singh,19
+Shubman Gill,MJ Santner,41
+WP Saha,MJ Santner,5
+WP Saha,PH Solanki,9
+Shubman Gill,PH Solanki,3
+Shubman Gill,M Pathirana,5
+MS Wade,M Pathirana,11
+WP Saha,M Pathirana,8
+MS Wade,MJ Santner,6
+MS Wade,MM Ali,3
+WP Saha,MM Ali,3
+HH Pandya,MM Ali,5
+HH Pandya,PH Solanki,2
+HH Pandya,M Pathirana,7
+DA Miller,M Pathirana,9
+DA Miller,PH Solanki,4
+DA Miller,Simarjeet Singh,14
+WP Saha,S Kaul,14
+MS Wade,JR Hazlewood,15
+MS Wade,GJ Maxwell,1
+HH Pandya,GJ Maxwell,10
+WP Saha,MK Lomror,4
+HH Pandya,MK Lomror,7
+HH Pandya,HV Patel,4
+DA Miller,GJ Maxwell,17
+HH Pandya,S Kaul,14
+DA Miller,S Kaul,4
+HH Pandya,JR Hazlewood,15
+Rashid Khan,JR Hazlewood,8
+Rashid Khan,S Kaul,11
+WP Saha,TA Boult,23
+MS Wade,TA Boult,21
+MS Wade,M Prasidh Krishna,13
+Shubman Gill,TA Boult,37
+Shubman Gill,R Ashwin,65
+MS Wade,R Ashwin,2
+MS Wade,YS Chahal,9
+HH Pandya,OC McCoy,25
+MS Wade,OC McCoy,0
+DA Miller,OC McCoy,24
+DA Miller,TA Boult,7
+HH Pandya,TA Boult,11
+WP Saha,M Prasidh Krishna,4
+Shubman Gill,OC McCoy,13
+WP Saha,DL Chahar,50
+Shubman Gill,DL Chahar,33
+WP Saha,TU Deshpande,20
+Shubman Gill,TU Deshpande,60
+WP Saha,RS Hangargekar,5
+Shubman Gill,RS Hangargekar,7
+B Sai Sudharsan,RS Hangargekar,4
+B Sai Sudharsan,TU Deshpande,43
+B Sai Sudharsan,MJ Santner,25
+B Sai Sudharsan,RA Jadeja,53
+Shubman Gill,RA Jadeja,41
+HH Pandya,RS Hangargekar,3
+HH Pandya,RA Jadeja,2
+HH Pandya,MJ Santner,3
+V Shankar,RA Jadeja,5
+V Shankar,RS Hangargekar,12
+V Shankar,TU Deshpande,18
+V Shankar,MJ Santner,6
+R Tewatia,MJ Santner,1
+V Shankar,DL Chahar,6
+R Tewatia,DL Chahar,4
+R Tewatia,RS Hangargekar,1
+Rashid Khan,DL Chahar,10
+R Tewatia,TU Deshpande,10
+WP Saha,KK Ahmed,37
+Shubman Gill,Mukesh Kumar,9
+WP Saha,A Nortje,4
+B Sai Sudharsan,A Nortje,40
+Shubman Gill,A Nortje,9
+B Sai Sudharsan,Mukesh Kumar,21
+HH Pandya,A Nortje,20
+B Sai Sudharsan,KK Ahmed,20
+B Sai Sudharsan,MR Marsh,8
+V Shankar,MR Marsh,11
+B Sai Sudharsan,Kuldeep Yadav,22
+V Shankar,Mukesh Kumar,2
+V Shankar,A Nortje,3
+DA Miller,MR Marsh,4
+DA Miller,Mukesh Kumar,31
+DA Miller,A Nortje,26
+WP Saha,SN Thakur,5
+Shubman Gill,LH Ferguson,2
+WP Saha,LH Ferguson,4
+B Sai Sudharsan,SP Narine,14
+Shubman Gill,CV Varun,20
+B Sai Sudharsan,CV Varun,9
+Shubman Gill,SP Narine,13
+B Sai Sudharsan,Suyash Sharma,15
+Shubman Gill,Suyash Sharma,15
+B Sai Sudharsan,LH Ferguson,7
+A Manohar,SP Narine,1
+A Manohar,UT Yadav,13
+B Sai Sudharsan,UT Yadav,1
+A Manohar,Suyash Sharma,0
+V Shankar,Suyash Sharma,20
+B Sai Sudharsan,SN Thakur,18
+V Shankar,LH Ferguson,25
+V Shankar,SP Narine,7
+DA Miller,LH Ferguson,0
+WP Saha,Arshdeep Singh,31
+Shubman Gill,Harpreet Brar,36
+WP Saha,Harpreet Brar,3
+Shubman Gill,SM Curran,21
+B Sai Sudharsan,SM Curran,16
+B Sai Sudharsan,Harpreet Brar,15
+B Sai Sudharsan,MW Short,6
+Shubman Gill,MW Short,2
+HH Pandya,Harpreet Brar,2
+DA Miller,Harpreet Brar,2
+DA Miller,RD Chahar,3
+DA Miller,SM Curran,4
+DA Miller,Arshdeep Singh,3
+R Tewatia,SM Curran,9
+B Sai Sudharsan,TA Boult,15
+B Sai Sudharsan,A Zampa,4
+Shubman Gill,A Zampa,14
+HH Pandya,A Zampa,35
+DA Miller,A Zampa,6
+A Manohar,Sandeep Sharma,2
+A Manohar,TA Boult,16
+A Manohar,A Zampa,7
+Rashid Khan,Sandeep Sharma,1
+R Tewatia,Sandeep Sharma,1
+WP Saha,Naveen-ul-Haq,9
+WP Saha,KH Pandya,24
+HH Pandya,Naveen-ul-Haq,7
+WP Saha,Avesh Khan,19
+WP Saha,Ravi Bishnoi,15
+HH Pandya,MP Stoinis,24
+WP Saha,MP Stoinis,4
+WP Saha,A Mishra,4
+HH Pandya,A Mishra,3
+A Manohar,KH Pandya,2
+A Manohar,A Mishra,1
+V Shankar,A Mishra,1
+V Shankar,MP Stoinis,2
+V Shankar,Naveen-ul-Haq,9
+DA Miller,Naveen-ul-Haq,2
+R Tewatia,MP Stoinis,2
+DA Miller,MP Stoinis,1
+WP Saha,Arjun Tendulkar,3
+Shubman Gill,Arjun Tendulkar,1
+Shubman Gill,JP Behrendorff,20
+WP Saha,JP Behrendorff,15
+HH Pandya,Arjun Tendulkar,5
+HH Pandya,JP Behrendorff,7
+HH Pandya,C Green,2
+Shubman Gill,C Green,43
+HH Pandya,PP Chawla,0
+V Shankar,PP Chawla,5
+Shubman Gill,PP Chawla,45
+V Shankar,K Kartikeya,13
+V Shankar,RP Meredith,1
+DA Miller,K Kartikeya,17
+A Manohar,PP Chawla,19
+DA Miller,PP Chawla,26
+A Manohar,K Kartikeya,1
+A Manohar,JP Behrendorff,4
+DA Miller,JP Behrendorff,2
+A Manohar,RP Meredith,7
+DA Miller,C Green,25
+A Manohar,C Green,13
+R Tewatia,JP Behrendorff,13
+Rashid Khan,JP Behrendorff,13
+WP Saha,Harshit Rana,3
+Shubman Gill,Harshit Rana,19
+WP Saha,AD Russell,1
+Shubman Gill,AD Russell,10
+HH Pandya,AD Russell,5
+HH Pandya,Suyash Sharma,7
+HH Pandya,Harshit Rana,1
+V Shankar,Harshit Rana,1
+DA Miller,Suyash Sharma,14
+V Shankar,CV Varun,21
+DA Miller,AD Russell,3
+V Shankar,AD Russell,9
+DA Miller,N Rana,2
+V Shankar,N Rana,11
+Shubman Gill,I Sharma,10
+HH Pandya,I Sharma,6
+V Shankar,I Sharma,4
+A Manohar,Kuldeep Yadav,10
+A Manohar,AR Patel,12
+A Manohar,I Sharma,2
+A Manohar,KK Ahmed,2
+A Manohar,A Nortje,2
+R Tewatia,A Nortje,18
+R Tewatia,I Sharma,0
+Rashid Khan,I Sharma,3
+WP Saha,A Zampa,6
+WP Saha,YS Chahal,8
+WP Saha,R Ashwin,2
+WP Saha,Yash Thakur,8
+Shubman Gill,Yash Thakur,25
+Shubman Gill,Ravi Bishnoi,16
+Shubman Gill,KR Mayers,2
+WP Saha,KR Mayers,13
+Shubman Gill,Swapnil Singh,9
+WP Saha,Swapnil Singh,7
+HH Pandya,Yash Thakur,8
+Shubman Gill,MP Stoinis,7
+DA Miller,Yash Thakur,11
+Shubman Gill,Akash Madhwal,32
+WP Saha,Akash Madhwal,4
+HH Pandya,Akash Madhwal,18
+V Shankar,JP Behrendorff,18
+V Shankar,Akash Madhwal,9
+DA Miller,Akash Madhwal,8
+V Shankar,CJ Jordan,2
+R Tewatia,K Kartikeya,2
+R Tewatia,PP Chawla,7
+R Tewatia,CJ Jordan,3
+R Tewatia,Akash Madhwal,2
+Noor Ahmad,PP Chawla,1
+Rashid Khan,PP Chawla,2
+Noor Ahmad,K Kartikeya,0
+AS Joseph,K Kartikeya,1
+Rashid Khan,K Kartikeya,30
+AS Joseph,JP Behrendorff,2
+AS Joseph,Akash Madhwal,4
+Rashid Khan,Akash Madhwal,1
+AS Joseph,CJ Jordan,0
+Rashid Khan,C Green,16
+Shubman Gill,Fazalhaq Farooqi,24
+Shubman Gill,AK Markram,12
+B Sai Sudharsan,AK Markram,1
+Shubman Gill,M Markande,22
+B Sai Sudharsan,M Markande,19
+B Sai Sudharsan,Fazalhaq Farooqi,2
+Shubman Gill,Abhishek Sharma,11
+B Sai Sudharsan,Abhishek Sharma,1
+R Tewatia,Fazalhaq Farooqi,2
+MD Shanaka,Fazalhaq Farooqi,2
+MD Shanaka,T Natarajan,6
+Noor Ahmad,B Kumar,0
+MD Shanaka,B Kumar,1
+Mohammed Shami,B Kumar,0
+MM Sharma,B Kumar,0
+WP Saha,WD Parnell,5
+Shubman Gill,WD Parnell,20
+V Shankar,WD Parnell,15
+Shubman Gill,Vijaykumar Vyshak,18
+V Shankar,Vijaykumar Vyshak,18
+V Shankar,H Sharma,8
+Shubman Gill,H Sharma,20
+V Shankar,HV Patel,8
+Shubman Gill,MG Bracewell,16
+V Shankar,Mohammed Siraj,16
+MD Shanaka,Vijaykumar Vyshak,0
+MD Shanaka,HV Patel,0
+DA Miller,Vijaykumar Vyshak,3
+HH Pandya,TU Deshpande,19
+HH Pandya,DL Chahar,2
+HH Pandya,M Theekshana,1
+Shubman Gill,M Theekshana,17
+MD Shanaka,M Theekshana,15
+MD Shanaka,RA Jadeja,2
+R Tewatia,M Theekshana,2
+V Shankar,M Pathirana,2
+Rashid Khan,M Pathirana,13
+Rashid Khan,TU Deshpande,15
+DG Nalkande,M Pathirana,0
+Noor Ahmad,M Pathirana,7
+Mohammed Shami,TU Deshpande,4
+Mohammed Shami,M Pathirana,1
+WP Saha,C Green,2
+Shubman Gill,CJ Jordan,18
+WP Saha,PP Chawla,0
+B Sai Sudharsan,PP Chawla,24
+B Sai Sudharsan,C Green,22
+B Sai Sudharsan,Akash Madhwal,3
+B Sai Sudharsan,CJ Jordan,16
+B Sai Sudharsan,JP Behrendorff,5
+HH Pandya,CJ Jordan,12
+B Sai Sudharsan,M Theekshana,16
+B Sai Sudharsan,M Pathirana,38
+B Sai Sudharsan,DL Chahar,11
+WP Saha,HH Pandya,14
+Shubman Gill,HH Pandya,6
+WP Saha,L Wood,1
+Shubman Gill,L Wood,5
+Shubman Gill,SZ Mulani,18
+B Sai Sudharsan,SZ Mulani,4
+Azmatullah Omarzai,PP Chawla,10
+Azmatullah Omarzai,SZ Mulani,1
+B Sai Sudharsan,Naman Dhir,8
+Azmatullah Omarzai,Naman Dhir,5
+B Sai Sudharsan,G Coetzee,10
+Azmatullah Omarzai,G Coetzee,1
+B Sai Sudharsan,JJ Bumrah,1
+DA Miller,G Coetzee,9
+B Sai Sudharsan,HH Pandya,8
+DA Miller,HH Pandya,2
+V Shankar,JJ Bumrah,3
+R Tewatia,L Wood,17
+R Tewatia,G Coetzee,0
+Rashid Khan,G Coetzee,4
+V Shankar,G Coetzee,3
+WP Saha,Mustafizur Rahman,9
+B Sai Sudharsan,DJ Mitchell,27
+V Shankar,DJ Mitchell,2
+DA Miller,DJ Mitchell,7
+B Sai Sudharsan,Mustafizur Rahman,6
+DA Miller,TU Deshpande,4
+Azmatullah Omarzai,TU Deshpande,5
+Azmatullah Omarzai,RA Jadeja,3
+Azmatullah Omarzai,DL Chahar,2
+Azmatullah Omarzai,M Pathirana,1
+R Tewatia,M Pathirana,5
+UT Yadav,Mustafizur Rahman,2
+UT Yadav,M Pathirana,8
+SH Johnson,Mustafizur Rahman,4
+SH Johnson,M Pathirana,1
+WP Saha,JD Unadkat,9
+Shubman Gill,JD Unadkat,2
+DA Miller,M Markande,17
+B Sai Sudharsan,PJ Cummins,9
+DA Miller,PJ Cummins,13
+B Sai Sudharsan,JD Unadkat,6
+DA Miller,JD Unadkat,7
+V Shankar,PJ Cummins,5
+V Shankar,JD Unadkat,9
+KS Williamson,Arshdeep Singh,1
+KS Williamson,K Rabada,5
+KS Williamson,SM Curran,10
+KS Williamson,Harpreet Brar,8
+KS Williamson,HV Patel,2
+Shubman Gill,Sikandar Raza,7
+B Sai Sudharsan,Sikandar Raza,15
+V Shankar,Harpreet Brar,2
+V Shankar,Arshdeep Singh,3
+V Shankar,K Rabada,0
+B Sai Sudharsan,M Siddharth,8
+Shubman Gill,M Siddharth,7
+Shubman Gill,Naveen-ul-Haq,3
+B Sai Sudharsan,Naveen-ul-Haq,10
+B Sai Sudharsan,MP Yadav,9
+Shubman Gill,MP Yadav,4
+B Sai Sudharsan,Yash Thakur,2
+B Sai Sudharsan,KH Pandya,1
+KS Williamson,KH Pandya,1
+KS Williamson,Ravi Bishnoi,0
+BR Sharath,Ravi Bishnoi,1
+B Sai Sudharsan,Ravi Bishnoi,1
+V Shankar,KH Pandya,5
+BR Sharath,KH Pandya,1
+DG Nalkande,KH Pandya,2
+V Shankar,Ravi Bishnoi,3
+DG Nalkande,Ravi Bishnoi,2
+DG Nalkande,M Siddharth,8
+V Shankar,M Siddharth,1
+R Tewatia,Naveen-ul-Haq,12
+R Tewatia,Yash Thakur,17
+V Shankar,Yash Thakur,0
+Rashid Khan,Yash Thakur,0
+UT Yadav,Yash Thakur,0
+UT Yadav,Naveen-ul-Haq,2
+SH Johnson,Yash Thakur,0
+Noor Ahmad,Yash Thakur,4
+B Sai Sudharsan,Avesh Khan,11
+Shubman Gill,KA Maharaj,13
+B Sai Sudharsan,KA Maharaj,1
+B Sai Sudharsan,R Ashwin,6
+B Sai Sudharsan,YS Chahal,11
+B Sai Sudharsan,KR Sen,0
+MS Wade,KR Sen,2
+V Shankar,KA Maharaj,2
+V Shankar,YS Chahal,5
+R Tewatia,R Ashwin,6
+M Shahrukh Khan,YS Chahal,1
+R Tewatia,YS Chahal,3
+M Shahrukh Khan,R Ashwin,12
+M Shahrukh Khan,Avesh Khan,1
+Rashid Khan,Avesh Khan,17
+Rashid Khan,KR Sen,7
+R Tewatia,KR Sen,9
+WP Saha,I Sharma,1
+B Sai Sudharsan,I Sharma,0
+WP Saha,Mukesh Kumar,2
+DA Miller,I Sharma,2
+R Tewatia,Mukesh Kumar,5
+A Manohar,Mukesh Kumar,2
+R Tewatia,Kuldeep Yadav,6
+A Manohar,T Stubbs,4
+M Shahrukh Khan,T Stubbs,0
+Rashid Khan,T Stubbs,6
+R Tewatia,AR Patel,1
+Rashid Khan,AR Patel,13
+Rashid Khan,Kuldeep Yadav,10
+MM Sharma,AR Patel,1
+MM Sharma,Kuldeep Yadav,0
+Rashid Khan,KK Ahmed,2
+MM Sharma,KK Ahmed,1
+Noor Ahmad,AR Patel,1
+Noor Ahmad,Kuldeep Yadav,0
+Rashid Khan,Mukesh Kumar,16
+SH Johnson,Mukesh Kumar,1
+Noor Ahmad,Mukesh Kumar,0
+Azmatullah Omarzai,LS Livingstone,3
+Azmatullah Omarzai,Harpreet Brar,7
+Azmatullah Omarzai,SM Curran,1
+Azmatullah Omarzai,HV Patel,2
+M Shahrukh Khan,HV Patel,1
+R Tewatia,Harpreet Brar,13
+M Shahrukh Khan,K Rabada,7
+Rashid Khan,HV Patel,3
+B Sai Sudharsan,Rasikh Salam,6
+WP Saha,Rasikh Salam,5
+WP Saha,AR Patel,4
+B Sai Sudharsan,AR Patel,22
+WP Saha,Kuldeep Yadav,2
+Azmatullah Omarzai,Kuldeep Yadav,1
+Azmatullah Omarzai,AR Patel,0
+DA Miller,Rasikh Salam,7
+M Shahrukh Khan,Rasikh Salam,6
+M Shahrukh Khan,Mukesh Kumar,2
+R Tewatia,Rasikh Salam,2
+R Sai Kishore,Mukesh Kumar,1
+Rashid Khan,Rasikh Salam,5
+R Sai Kishore,Rasikh Salam,12
+B Sai Sudharsan,Mohammed Siraj,16
+B Sai Sudharsan,Swapnil Singh,11
+Shubman Gill,Yash Dayal,3
+B Sai Sudharsan,Yash Dayal,16
+B Sai Sudharsan,GJ Maxwell,10
+M Shahrukh Khan,GJ Maxwell,14
+B Sai Sudharsan,KV Sharma,20
+M Shahrukh Khan,KV Sharma,23
+M Shahrukh Khan,C Green,31
+M Shahrukh Khan,Swapnil Singh,4
+M Shahrukh Khan,Mohammed Siraj,4
+DA Miller,Yash Dayal,17
+M Shahrukh Khan,Yash Dayal,9
+M Shahrukh Khan,Vijaykumar Vyshak,10
+DA Miller,KV Sharma,13
+R Tewatia,KV Sharma,23
+R Tewatia,Vijaykumar Vyshak,4
+Rashid Khan,Vijaykumar Vyshak,7
+R Tewatia,C Green,2
+Rashid Khan,Mohammed Siraj,8
+R Tewatia,Yash Dayal,5
+Rashid Khan,Yash Dayal,0
+V Shankar,Yash Dayal,1
+MJ Suthar,Mohammed Siraj,1
+MJ Suthar,Vijaykumar Vyshak,0
+MM Sharma,Vijaykumar Vyshak,0
+B Sai Sudharsan,Simarjeet Singh,24
+Shubman Gill,DJ Mitchell,32
+M Shahrukh Khan,SN Thakur,1
+M Shahrukh Khan,Simarjeet Singh,1

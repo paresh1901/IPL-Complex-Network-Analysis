@@ -1,0 +1,20 @@
+MA Agarwal,AM Rahane,12
+AM Rahane,MA Agarwal,10
+MA Agarwal,F du Plessis,8
+F du Plessis,MA Agarwal,2
+RA Tripathi,F du Plessis,10
+F du Plessis,RA Tripathi,4
+BA Stokes,F du Plessis,1
+F du Plessis,BA Stokes,2
+BA Stokes,MS Dhoni,1
+MS Dhoni,BA Stokes,1
+MS Dhoni,R Bhatia,10
+R Bhatia,MS Dhoni,15
+DL Chahar,R Bhatia,13
+R Bhatia,DL Chahar,1
+DL Chahar,A Zampa,1
+A Zampa,DL Chahar,5
+A Zampa,AB Dinda,0
+AB Dinda,A Zampa,6
+Imran Tahir,AB Dinda,0
+AB Dinda,Imran Tahir,1

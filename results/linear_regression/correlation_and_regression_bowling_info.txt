@@ -1,0 +1,12 @@
+Spearman correlation between In-Strength Rank and Bowling Average Rank: 0.36
+Spearman correlation between PageRank Rank and Bowling Average Rank: 0.31
+Spearman correlation between In-Strength Rank and PageRank Rank: 1.00
+
+Linear Regression Coefficients for In-Strength: [0.06154273 0.9770795 ]
+Intercept for In-Strength: -10.273513610206521
+
+Linear Regression Coefficients for Bowling Average: [ 1.00000000e+00 -2.11375909e-17]
+Intercept for Bowling Average: 5.684341886080802e-14
+
+Linear Regression Coefficients for PageRank: [-1.641319e-16  1.000000e+00]
+Intercept for PageRank: 0.0

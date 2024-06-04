@@ -1,0 +1,20 @@
+HH Gibbs,AC Gilchrist,0
+AC Gilchrist,HH Gibbs,0
+HH Gibbs,VVS Laxman,0
+VVS Laxman,HH Gibbs,0
+VVS Laxman,RG Sharma,0
+RG Sharma,VVS Laxman,0
+RG Sharma,DR Smith,21
+DR Smith,RG Sharma,48
+TL Suman,DR Smith,1
+DR Smith,TL Suman,1
+Y Venugopal Rao,TL Suman,2
+TL Suman,Y Venugopal Rao,3
+TL Suman,RJ Harris,13
+RJ Harris,TL Suman,1
+TL Suman,RP Singh,0
+RP Singh,TL Suman,2
+Shoaib Ahmed,TL Suman,0
+TL Suman,Shoaib Ahmed,0
+PP Ojha,Shoaib Ahmed,0
+Shoaib Ahmed,PP Ojha,1

@@ -1,0 +1,20 @@
+TM Dilshan,CH Gayle,2
+CH Gayle,TM Dilshan,1
+TM Dilshan,V Kohli,3
+V Kohli,TM Dilshan,9
+V Kohli,KK Nair,11
+KK Nair,V Kohli,9
+V Kohli,MC Henriques,26
+MC Henriques,V Kohli,17
+MA Agarwal,MC Henriques,7
+MC Henriques,MA Agarwal,16
+KB Arun Karthik,MC Henriques,0
+MC Henriques,KB Arun Karthik,5
+R Vinay Kumar,MC Henriques,5
+MC Henriques,R Vinay Kumar,6
+M Kartik,R Vinay Kumar,0
+R Vinay Kumar,M Kartik,2
+JD Unadkat,M Kartik,1
+M Kartik,JD Unadkat,2
+V Kohli,CH Gayle,5
+CH Gayle,V Kohli,10

@@ -1,0 +1,20 @@
+PN Mankad,KR Mayers,3
+KR Mayers,PN Mankad,9
+KR Mayers,KH Pandya,9
+KH Pandya,KR Mayers,0
+KH Pandya,MP Stoinis,8
+MP Stoinis,KH Pandya,36
+MP Stoinis,A Badoni,0
+A Badoni,MP Stoinis,1
+MP Stoinis,N Pooran,0
+N Pooran,MP Stoinis,0
+MP Stoinis,DJ Hooda,4
+DJ Hooda,MP Stoinis,10
+DJ Hooda,K Gowtham,1
+K Gowtham,DJ Hooda,2
+DJ Hooda,Ravi Bishnoi,4
+Ravi Bishnoi,DJ Hooda,3
+DJ Hooda,Naveen-ul-Haq,0
+Naveen-ul-Haq,DJ Hooda,0
+Mohsin Khan,Naveen-ul-Haq,0
+Naveen-ul-Haq,Mohsin Khan,1

@@ -1,0 +1,18 @@
+RG Sharma,LMP Simmons,7
+LMP Simmons,RG Sharma,1
+LMP Simmons,HH Pandya,7
+HH Pandya,LMP Simmons,9
+HH Pandya,JC Buttler,0
+JC Buttler,HH Pandya,0
+JC Buttler,AT Rayudu,0
+AT Rayudu,JC Buttler,1
+KA Pollard,AT Rayudu,1
+AT Rayudu,KA Pollard,2
+AT Rayudu,S Gopal,9
+S Gopal,AT Rayudu,2
+AT Rayudu,Harbhajan Singh,10
+Harbhajan Singh,AT Rayudu,7
+Harbhajan Singh,R Vinay Kumar,15
+R Vinay Kumar,Harbhajan Singh,12
+MJ McClenaghan,Harbhajan Singh,2
+Harbhajan Singh,MJ McClenaghan,23

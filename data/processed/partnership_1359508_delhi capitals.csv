@@ -1,0 +1,20 @@
+PD Salt,DA Warner,0
+DA Warner,PD Salt,1
+DA Warner,MR Marsh,12
+MR Marsh,DA Warner,25
+DA Warner,SN Khan,8
+SN Khan,DA Warner,10
+SN Khan,MK Pandey,0
+MK Pandey,SN Khan,1
+MK Pandey,Aman Hakim Khan,0
+Aman Hakim Khan,MK Pandey,4
+AR Patel,MK Pandey,34
+MK Pandey,AR Patel,32
+MK Pandey,RV Patel,1
+RV Patel,MK Pandey,2
+RV Patel,A Nortje,3
+A Nortje,RV Patel,2
+RV Patel,Kuldeep Yadav,0
+Kuldeep Yadav,RV Patel,0
+Kuldeep Yadav,I Sharma,4
+I Sharma,Kuldeep Yadav,1

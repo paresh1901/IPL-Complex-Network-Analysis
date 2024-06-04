@@ -1,0 +1,16 @@
+G Gambhir,MS Bisla,0
+MS Bisla,G Gambhir,4
+MS Bisla,YK Pathan,0
+YK Pathan,MS Bisla,11
+YK Pathan,JH Kallis,9
+JH Kallis,YK Pathan,11
+EJG Morgan,JH Kallis,10
+JH Kallis,EJG Morgan,1
+JH Kallis,DB Das,0
+DB Das,JH Kallis,2
+DB Das,R Bhatia,16
+R Bhatia,DB Das,14
+R Bhatia,S Narwal,6
+S Narwal,R Bhatia,23
+B Lee,R Bhatia,16
+R Bhatia,B Lee,6

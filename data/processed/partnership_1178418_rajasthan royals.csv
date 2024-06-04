@@ -1,0 +1,16 @@
+SV Samson,AM Rahane,19
+AM Rahane,SV Samson,34
+SV Samson,SPD Smith,3
+SPD Smith,SV Samson,1
+SPD Smith,BA Stokes,1
+BA Stokes,SPD Smith,5
+BA Stokes,R Parag,6
+R Parag,BA Stokes,8
+STR Binny,R Parag,11
+R Parag,STR Binny,6
+R Parag,S Gopal,7
+S Gopal,R Parag,18
+JC Archer,R Parag,17
+R Parag,JC Archer,26
+JC Archer,JD Unadkat,10
+JD Unadkat,JC Archer,0

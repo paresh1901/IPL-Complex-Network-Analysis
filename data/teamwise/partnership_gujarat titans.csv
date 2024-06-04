@@ -1,0 +1,149 @@
+striker,non_striker,runs
+MS Wade,Shubman Gill,76
+Shubman Gill,MS Wade,83
+MS Wade,V Shankar,5
+V Shankar,MS Wade,4
+MS Wade,HH Pandya,29
+HH Pandya,MS Wade,55
+MS Wade,DA Miller,3
+DA Miller,MS Wade,3
+DA Miller,R Tewatia,181
+R Tewatia,DA Miller,169
+R Tewatia,A Manohar,23
+A Manohar,R Tewatia,25
+Shubman Gill,V Shankar,175
+V Shankar,Shubman Gill,136
+Shubman Gill,HH Pandya,221
+HH Pandya,Shubman Gill,268
+DA Miller,Shubman Gill,145
+Shubman Gill,DA Miller,143
+DA Miller,A Manohar,54
+A Manohar,DA Miller,72
+DA Miller,Rashid Khan,58
+Rashid Khan,DA Miller,42
+Shubman Gill,B Sai Sudharsan,606
+B Sai Sudharsan,Shubman Gill,484
+HH Pandya,DA Miller,171
+DA Miller,HH Pandya,185
+MS Wade,B Sai Sudharsan,12
+B Sai Sudharsan,MS Wade,11
+HH Pandya,A Manohar,87
+A Manohar,HH Pandya,107
+HH Pandya,R Tewatia,15
+R Tewatia,HH Pandya,32
+Rashid Khan,HH Pandya,27
+HH Pandya,Rashid Khan,30
+Shubman Gill,WP Saha,475
+WP Saha,Shubman Gill,595
+V Shankar,WP Saha,0
+WP Saha,V Shankar,1
+WP Saha,A Manohar,2
+A Manohar,WP Saha,12
+WP Saha,DA Miller,45
+DA Miller,WP Saha,47
+DA Miller,AS Joseph,0
+AS Joseph,DA Miller,0
+LH Ferguson,DA Miller,0
+DA Miller,LH Ferguson,12
+WP Saha,HH Pandya,99
+HH Pandya,WP Saha,143
+R Tewatia,Rashid Khan,82
+Rashid Khan,R Tewatia,101
+R Tewatia,LH Ferguson,0
+LH Ferguson,R Tewatia,0
+R Tewatia,AS Joseph,5
+AS Joseph,R Tewatia,1
+AS Joseph,Yash Dayal,0
+Yash Dayal,AS Joseph,0
+B Sai Sudharsan,HH Pandya,103
+HH Pandya,B Sai Sudharsan,58
+B Sai Sudharsan,DA Miller,166
+DA Miller,B Sai Sudharsan,150
+B Sai Sudharsan,WP Saha,99
+WP Saha,B Sai Sudharsan,75
+B Sai Sudharsan,R Tewatia,30
+R Tewatia,B Sai Sudharsan,11
+B Sai Sudharsan,Rashid Khan,0
+Rashid Khan,B Sai Sudharsan,0
+B Sai Sudharsan,PJ Sangwan,7
+PJ Sangwan,B Sai Sudharsan,2
+B Sai Sudharsan,LH Ferguson,2
+LH Ferguson,B Sai Sudharsan,5
+B Sai Sudharsan,AS Joseph,8
+AS Joseph,B Sai Sudharsan,4
+R Tewatia,Shubman Gill,53
+Shubman Gill,R Tewatia,64
+WP Saha,MS Wade,7
+MS Wade,WP Saha,36
+R Tewatia,V Shankar,36
+V Shankar,R Tewatia,30
+V Shankar,B Sai Sudharsan,59
+B Sai Sudharsan,V Shankar,49
+B Sai Sudharsan,A Manohar,4
+A Manohar,B Sai Sudharsan,14
+V Shankar,DA Miller,128
+DA Miller,V Shankar,61
+HH Pandya,V Shankar,6
+V Shankar,HH Pandya,16
+Rashid Khan,Noor Ahmad,19
+Noor Ahmad,Rashid Khan,2
+Rashid Khan,AS Joseph,77
+AS Joseph,Rashid Khan,7
+Shubman Gill,MD Shanaka,18
+MD Shanaka,Shubman Gill,25
+MD Shanaka,Rashid Khan,0
+Rashid Khan,MD Shanaka,0
+MD Shanaka,Noor Ahmad,0
+Noor Ahmad,MD Shanaka,0
+Mohammed Shami,MD Shanaka,0
+MD Shanaka,Mohammed Shami,1
+MD Shanaka,MM Sharma,0
+MM Sharma,MD Shanaka,0
+V Shankar,Rashid Khan,13
+Rashid Khan,V Shankar,30
+Rashid Khan,DG Nalkande,0
+DG Nalkande,Rashid Khan,0
+Noor Ahmad,Mohammed Shami,7
+Mohammed Shami,Noor Ahmad,5
+B Sai Sudharsan,Azmatullah Omarzai,42
+Azmatullah Omarzai,B Sai Sudharsan,36
+Azmatullah Omarzai,R Tewatia,6
+R Tewatia,Azmatullah Omarzai,4
+R Tewatia,UT Yadav,10
+UT Yadav,R Tewatia,4
+UT Yadav,SH Johnson,8
+SH Johnson,UT Yadav,5
+KS Williamson,Shubman Gill,26
+Shubman Gill,KS Williamson,13
+KS Williamson,B Sai Sudharsan,1
+B Sai Sudharsan,KS Williamson,1
+B Sai Sudharsan,BR Sharath,1
+BR Sharath,B Sai Sudharsan,1
+BR Sharath,V Shankar,1
+V Shankar,BR Sharath,2
+V Shankar,DG Nalkande,6
+DG Nalkande,V Shankar,12
+SH Johnson,R Tewatia,0
+R Tewatia,SH Johnson,22
+SH Johnson,Noor Ahmad,1
+Noor Ahmad,SH Johnson,4
+Shubman Gill,A Manohar,1
+A Manohar,Shubman Gill,1
+R Tewatia,M Shahrukh Khan,41
+M Shahrukh Khan,R Tewatia,24
+Rashid Khan,MM Sharma,21
+MM Sharma,Rashid Khan,2
+R Sai Kishore,R Tewatia,0
+R Tewatia,R Sai Kishore,4
+DA Miller,M Shahrukh Khan,54
+M Shahrukh Khan,DA Miller,37
+Rashid Khan,R Sai Kishore,6
+R Sai Kishore,Rashid Khan,13
+B Sai Sudharsan,M Shahrukh Khan,27
+M Shahrukh Khan,B Sai Sudharsan,66
+MJ Suthar,V Shankar,1
+V Shankar,MJ Suthar,9
+V Shankar,MM Sharma,0
+MM Sharma,V Shankar,0
+Noor Ahmad,V Shankar,0
+V Shankar,Noor Ahmad,0

@@ -1,0 +1,14 @@
+SPD Smith,JC Buttler,5
+JC Buttler,SPD Smith,22
+JC Buttler,SV Samson,0
+SV Samson,JC Buttler,4
+SV Samson,RV Uthappa,0
+RV Uthappa,SV Samson,0
+RV Uthappa,MK Lomror,17
+MK Lomror,RV Uthappa,22
+R Parag,MK Lomror,16
+MK Lomror,R Parag,17
+R Tewatia,MK Lomror,1
+MK Lomror,R Tewatia,8
+R Tewatia,JC Archer,23
+JC Archer,R Tewatia,16

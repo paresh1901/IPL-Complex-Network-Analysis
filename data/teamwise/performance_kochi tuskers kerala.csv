@@ -1,0 +1,304 @@
+batsman,bowler,runs
+BB McCullum,Z Khan,10
+VVS Laxman,Z Khan,3
+BB McCullum,DP Nannes,17
+VVS Laxman,DP Nannes,1
+BB McCullum,DL Vettori,7
+VVS Laxman,DL Vettori,9
+BB McCullum,TM Dilshan,5
+VVS Laxman,TM Dilshan,16
+VVS Laxman,A Mithun,7
+BB McCullum,A Mithun,11
+DPMD Jayawardene,DL Vettori,3
+DPMD Jayawardene,DP Nannes,6
+BB McCullum,V Kohli,1
+DPMD Jayawardene,V Kohli,7
+BJ Hodge,V Kohli,6
+DPMD Jayawardene,AUK Pathan,4
+BJ Hodge,AUK Pathan,9
+RA Jadeja,DL Vettori,2
+BJ Hodge,DL Vettori,1
+BJ Hodge,TM Dilshan,6
+RA Jadeja,TM Dilshan,9
+BJ Hodge,Z Khan,5
+RA Jadeja,Z Khan,18
+RA Jadeja,DP Nannes,6
+RV Gomez,DP Nannes,0
+PA Patel,DP Nannes,0
+PA Patel,Z Khan,1
+BB McCullum,AC Thomas,0
+PA Patel,AC Thomas,9
+PA Patel,SB Wagh,10
+VVS Laxman,SB Wagh,0
+PA Patel,WD Parnell,2
+VVS Laxman,WD Parnell,0
+DPMD Jayawardene,WD Parnell,2
+BJ Hodge,WD Parnell,6
+BJ Hodge,SB Wagh,0
+RA Jadeja,WD Parnell,7
+BJ Hodge,AC Thomas,1
+RA Jadeja,AC Thomas,12
+BJ Hodge,M Kartik,23
+RA Jadeja,M Kartik,5
+BJ Hodge,R Sharma,6
+RA Jadeja,R Sharma,10
+RA Jadeja,Yuvraj Singh,11
+BJ Hodge,Yuvraj Singh,1
+BJ Hodge,JD Ryder,2
+RA Jadeja,JD Ryder,2
+RV Gomez,R Sharma,2
+RV Gomez,JD Ryder,3
+R Vinay Kumar,JD Ryder,1
+S Sreesanth,R Sharma,0
+RV Gomez,AC Thomas,8
+S Sreesanth,AC Thomas,1
+RV Gomez,WD Parnell,13
+RP Singh,WD Parnell,0
+BB McCullum,SL Malinga,23
+BB McCullum,MM Patel,4
+DPMD Jayawardene,MM Patel,4
+DPMD Jayawardene,SL Malinga,8
+BB McCullum,AG Murtaza,7
+DPMD Jayawardene,AG Murtaza,9
+DPMD Jayawardene,KA Pollard,13
+BB McCullum,KA Pollard,26
+BB McCullum,Harbhajan Singh,14
+DPMD Jayawardene,Harbhajan Singh,18
+DPMD Jayawardene,R Sathish,4
+BB McCullum,R Sathish,7
+RA Jadeja,SL Malinga,0
+RA Jadeja,Harbhajan Singh,1
+RA Jadeja,MM Patel,7
+RA Jadeja,KA Pollard,0
+BJ Hodge,SL Malinga,8
+RA Jadeja,AG Murtaza,17
+BJ Hodge,AG Murtaza,3
+BB McCullum,JA Morkel,17
+BB McCullum,DE Bollinger,17
+DPMD Jayawardene,DE Bollinger,6
+DPMD Jayawardene,R Ashwin,10
+BB McCullum,R Ashwin,7
+PA Patel,R Ashwin,8
+BB McCullum,TG Southee,10
+PA Patel,TG Southee,13
+BB McCullum,SB Jakati,15
+PA Patel,SB Jakati,14
+BJ Hodge,R Ashwin,8
+BJ Hodge,SB Jakati,9
+BJ Hodge,DE Bollinger,11
+PA Patel,DE Bollinger,5
+BJ Hodge,TG Southee,6
+RA Jadeja,TG Southee,7
+RA Jadeja,R Ashwin,11
+BB McCullum,B Lee,16
+DPMD Jayawardene,B Lee,5
+DPMD Jayawardene,L Balaji,4
+BB McCullum,Iqbal Abdulla,4
+DPMD Jayawardene,Iqbal Abdulla,14
+BB McCullum,Shakib Al Hasan,3
+DPMD Jayawardene,Shakib Al Hasan,6
+DPMD Jayawardene,YK Pathan,12
+PA Patel,YK Pathan,6
+PA Patel,Iqbal Abdulla,8
+BJ Hodge,Iqbal Abdulla,2
+BJ Hodge,YK Pathan,2
+RA Jadeja,YK Pathan,11
+PA Patel,L Balaji,1
+RA Jadeja,L Balaji,7
+KM Jadhav,YK Pathan,3
+KM Jadhav,L Balaji,7
+KM Jadhav,Shakib Al Hasan,2
+RA Jadeja,Shakib Al Hasan,8
+RA Jadeja,B Lee,4
+RV Gomez,B Lee,4
+R Vinay Kumar,B Lee,5
+RV Gomez,Iqbal Abdulla,0
+R Vinay Kumar,Iqbal Abdulla,5
+R Vinay Kumar,Shakib Al Hasan,1
+RV Gomez,Shakib Al Hasan,7
+RR Powar,Shakib Al Hasan,1
+RR Powar,L Balaji,2
+RV Gomez,L Balaji,0
+DPMD Jayawardene,A Singh,7
+VVS Laxman,A Singh,8
+DPMD Jayawardene,SR Watson,6
+VVS Laxman,SR Watson,0
+PA Patel,SR Watson,4
+DPMD Jayawardene,J Botha,0
+BJ Hodge,J Botha,3
+PA Patel,J Botha,11
+BJ Hodge,A Singh,3
+BJ Hodge,SK Warne,2
+RA Jadeja,SK Warne,4
+RA Jadeja,J Botha,4
+PA Patel,SK Warne,10
+PA Patel,SK Trivedi,7
+RA Jadeja,SK Trivedi,8
+RA Jadeja,SR Watson,6
+NLTC Perera,SK Warne,0
+RV Gomez,SK Trivedi,0
+NLTC Perera,SK Trivedi,1
+KM Jadhav,SK Trivedi,2
+R Vinay Kumar,A Singh,5
+KM Jadhav,A Singh,1
+M Muralitharan,A Singh,1
+M Muralitharan,SR Watson,4
+KM Jadhav,SR Watson,2
+M Muralitharan,SK Trivedi,0
+RP Singh,SK Trivedi,1
+BB McCullum,DW Steyn,0
+PA Patel,DW Steyn,0
+DPMD Jayawardene,I Sharma,0
+PA Patel,I Sharma,0
+RV Gomez,I Sharma,0
+BJ Hodge,I Sharma,0
+KM Jadhav,I Sharma,0
+DPMD Jayawardene,DW Steyn,4
+RA Jadeja,I Sharma,6
+RA Jadeja,DW Steyn,1
+NLTC Perera,DW Steyn,9
+NLTC Perera,I Sharma,5
+RA Jadeja,DT Christian,4
+NLTC Perera,DT Christian,2
+RA Jadeja,MS Gony,7
+NLTC Perera,MS Gony,5
+RA Jadeja,A Mishra,5
+NLTC Perera,A Mishra,1
+R Vinay Kumar,MS Gony,7
+R Vinay Kumar,A Mishra,6
+R Vinay Kumar,DT Christian,5
+S Sreesanth,A Mishra,0
+R Vinay Kumar,DW Steyn,0
+RP Singh,DW Steyn,0
+BB McCullum,IK Pathan,5
+M Klinger,IK Pathan,14
+BB McCullum,M Morkel,19
+M Klinger,M Morkel,2
+DPMD Jayawardene,IK Pathan,3
+PA Patel,IK Pathan,6
+DPMD Jayawardene,UT Yadav,8
+BJ Hodge,IK Pathan,16
+BJ Hodge,UT Yadav,8
+DPMD Jayawardene,M Morkel,1
+BJ Hodge,M Morkel,1
+DPMD Jayawardene,AB Agarkar,6
+BJ Hodge,AB Agarkar,8
+DPMD Jayawardene,RE van der Merwe,7
+BJ Hodge,RE van der Merwe,6
+RA Jadeja,AB Agarkar,4
+RA Jadeja,RE van der Merwe,10
+RA Jadeja,IK Pathan,9
+B Akhil,M Morkel,2
+RA Jadeja,M Morkel,7
+B Akhil,UT Yadav,11
+RA Jadeja,UT Yadav,1
+R Vinay Kumar,M Morkel,1
+R Vinay Kumar,RE van der Merwe,2
+R Vinay Kumar,AB Agarkar,8
+RR Powar,RE van der Merwe,0
+S Sreesanth,RE van der Merwe,0
+RP Singh,RE van der Merwe,1
+M Klinger,UT Yadav,1
+BB McCullum,UT Yadav,20
+PA Patel,M Morkel,11
+PA Patel,AB Agarkar,12
+M Klinger,AB Agarkar,3
+M Klinger,RE van der Merwe,0
+PA Patel,RE van der Merwe,7
+PA Patel,Y Nagar,2
+BJ Hodge,Y Nagar,12
+M Klinger,JD Unadkat,10
+BB McCullum,JD Unadkat,1
+PA Patel,JD Unadkat,6
+PA Patel,B Lee,9
+M Klinger,B Lee,1
+M Klinger,Iqbal Abdulla,6
+DPMD Jayawardene,JD Unadkat,1
+M Klinger,JH Kallis,7
+DPMD Jayawardene,JH Kallis,12
+M Klinger,S Ladda,2
+DPMD Jayawardene,S Ladda,10
+DPMD Jayawardene,R Bhatia,16
+M Klinger,R Bhatia,2
+M Klinger,YK Pathan,1
+RA Jadeja,JD Unadkat,6
+RA Jadeja,R Bhatia,1
+BJ Hodge,R Bhatia,3
+BJ Hodge,B Lee,29
+BJ Hodge,JH Kallis,1
+M Klinger,Z Khan,12
+M Klinger,S Aravind,8
+BB McCullum,S Aravind,5
+BB McCullum,CH Gayle,11
+M Klinger,CH Gayle,0
+PA Patel,DL Vettori,12
+M Klinger,DL Vettori,2
+M Klinger,A Mithun,2
+PA Patel,A Mithun,6
+DPMD Jayawardene,CH Gayle,1
+PA Patel,CH Gayle,1
+BJ Hodge,CH Gayle,2
+RA Jadeja,CH Gayle,6
+BJ Hodge,A Mithun,3
+RA Jadeja,A Mithun,2
+RA Jadeja,S Aravind,3
+BJ Hodge,S Aravind,0
+RV Gomez,S Aravind,0
+RV Gomez,TM Dilshan,0
+RV Gomez,DL Vettori,5
+RV Gomez,Z Khan,2
+R Vinay Kumar,S Aravind,3
+R Vinay Kumar,Z Khan,0
+RR Powar,Z Khan,3
+RR Powar,A Mithun,5
+P Parameswaran,A Mithun,1
+BB McCullum,RJ Harris,14
+DPMD Jayawardene,RJ Harris,16
+BB McCullum,BA Bhatt,2
+DPMD Jayawardene,BA Bhatt,21
+BB McCullum,Bipul Sharma,7
+DPMD Jayawardene,Bipul Sharma,13
+BB McCullum,SJ Srivastava,7
+DPMD Jayawardene,SJ Srivastava,14
+BB McCullum,PP Chawla,2
+DPMD Jayawardene,PP Chawla,12
+RA Jadeja,Bipul Sharma,1
+RA Jadeja,PP Chawla,9
+RA Jadeja,SJ Srivastava,5
+RA Jadeja,BA Bhatt,2
+BJ Hodge,PP Chawla,1
+BJ Hodge,Bipul Sharma,3
+OA Shah,RJ Harris,7
+OA Shah,BA Bhatt,8
+OA Shah,Bipul Sharma,7
+OA Shah,SJ Srivastava,1
+PA Patel,SJ Srivastava,0
+RV Gomez,SJ Srivastava,1
+RV Gomez,RJ Harris,1
+R Vinay Kumar,RJ Harris,1
+BB McCullum,SW Tait,11
+DPMD Jayawardene,SW Tait,6
+BB McCullum,JDP Oram,18
+DPMD Jayawardene,JDP Oram,0
+PA Patel,SW Tait,7
+BB McCullum,ND Doshi,0
+BJ Hodge,ND Doshi,14
+PA Patel,JDP Oram,13
+BJ Hodge,JDP Oram,1
+BJ Hodge,AA Chavan,10
+BJ Hodge,SW Tait,8
+PA Patel,ND Doshi,1
+Y Gnaneswara Rao,R Ashwin,3
+Y Gnaneswara Rao,DE Bollinger,1
+Y Gnaneswara Rao,SB Jakati,11
+Y Gnaneswara Rao,DJ Bravo,4
+BB McCullum,DJ Bravo,4
+BB McCullum,SK Raina,10
+BJ Hodge,SK Raina,12
+BJ Hodge,DJ Bravo,24
+RA Jadeja,SB Jakati,4
+RA Jadeja,SK Raina,2
+RA Jadeja,DE Bollinger,11
+OA Shah,DJ Bravo,2
+OA Shah,DE Bollinger,1
+KM Jadhav,DE Bollinger,1

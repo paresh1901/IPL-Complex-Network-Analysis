@@ -1,0 +1,14 @@
+KK Nair,AM Rahane,20
+AM Rahane,KK Nair,30
+KK Nair,SV Samson,24
+SV Samson,KK Nair,27
+SV Samson,SR Watson,10
+SR Watson,SV Samson,20
+STR Binny,SR Watson,4
+SR Watson,STR Binny,11
+SPD Smith,STR Binny,3
+STR Binny,SPD Smith,7
+JP Faulkner,STR Binny,0
+STR Binny,JP Faulkner,0
+R Bhatia,JP Faulkner,6
+JP Faulkner,R Bhatia,1

@@ -1,0 +1,93 @@
+striker,non_striker,runs
+VVS Laxman,BB McCullum,36
+BB McCullum,VVS Laxman,41
+DPMD Jayawardene,BB McCullum,152
+BB McCullum,DPMD Jayawardene,160
+DPMD Jayawardene,BJ Hodge,41
+BJ Hodge,DPMD Jayawardene,47
+BJ Hodge,RA Jadeja,99
+RA Jadeja,BJ Hodge,132
+RV Gomez,RA Jadeja,7
+RA Jadeja,RV Gomez,18
+PA Patel,RA Jadeja,33
+RA Jadeja,PA Patel,31
+VVS Laxman,PA Patel,0
+PA Patel,VVS Laxman,11
+PA Patel,DPMD Jayawardene,12
+DPMD Jayawardene,PA Patel,25
+PA Patel,BJ Hodge,69
+BJ Hodge,PA Patel,79
+R Vinay Kumar,RV Gomez,12
+RV Gomez,R Vinay Kumar,13
+S Sreesanth,RV Gomez,1
+RV Gomez,S Sreesanth,23
+RV Gomez,RP Singh,0
+RP Singh,RV Gomez,0
+BB McCullum,RA Jadeja,19
+RA Jadeja,BB McCullum,8
+PA Patel,BB McCullum,37
+BB McCullum,PA Patel,40
+RA Jadeja,KM Jadhav,23
+KM Jadhav,RA Jadeja,12
+RV Gomez,RR Powar,0
+RR Powar,RV Gomez,3
+VVS Laxman,DPMD Jayawardene,8
+DPMD Jayawardene,VVS Laxman,12
+RV Gomez,PA Patel,0
+PA Patel,RV Gomez,0
+RV Gomez,NLTC Perera,0
+NLTC Perera,RV Gomez,0
+KM Jadhav,NLTC Perera,1
+NLTC Perera,KM Jadhav,1
+KM Jadhav,R Vinay Kumar,1
+R Vinay Kumar,KM Jadhav,5
+KM Jadhav,M Muralitharan,3
+M Muralitharan,KM Jadhav,5
+M Muralitharan,RP Singh,0
+RP Singh,M Muralitharan,1
+DPMD Jayawardene,RV Gomez,10
+RV Gomez,DPMD Jayawardene,2
+DPMD Jayawardene,KM Jadhav,4
+KM Jadhav,DPMD Jayawardene,0
+DPMD Jayawardene,RA Jadeja,18
+RA Jadeja,DPMD Jayawardene,30
+NLTC Perera,RA Jadeja,22
+RA Jadeja,NLTC Perera,11
+RA Jadeja,R Vinay Kumar,26
+R Vinay Kumar,RA Jadeja,31
+S Sreesanth,R Vinay Kumar,0
+R Vinay Kumar,S Sreesanth,1
+S Sreesanth,RP Singh,0
+RP Singh,S Sreesanth,0
+M Klinger,BB McCullum,40
+BB McCullum,M Klinger,67
+RA Jadeja,B Akhil,3
+B Akhil,RA Jadeja,13
+R Vinay Kumar,RR Powar,0
+RR Powar,R Vinay Kumar,0
+R Vinay Kumar,RP Singh,0
+RP Singh,R Vinay Kumar,1
+M Klinger,PA Patel,11
+PA Patel,M Klinger,40
+DPMD Jayawardene,M Klinger,28
+M Klinger,DPMD Jayawardene,22
+BJ Hodge,RV Gomez,21
+RV Gomez,BJ Hodge,1
+RR Powar,RA Jadeja,6
+RA Jadeja,RR Powar,1
+RP Singh,RR Powar,0
+RR Powar,RP Singh,0
+RR Powar,P Parameswaran,2
+P Parameswaran,RR Powar,1
+OA Shah,DPMD Jayawardene,23
+DPMD Jayawardene,OA Shah,9
+DPMD Jayawardene,R Vinay Kumar,0
+R Vinay Kumar,DPMD Jayawardene,1
+BB McCullum,Y Gnaneswara Rao,13
+Y Gnaneswara Rao,BB McCullum,19
+BJ Hodge,BB McCullum,18
+BB McCullum,BJ Hodge,17
+BJ Hodge,OA Shah,19
+OA Shah,BJ Hodge,3
+KM Jadhav,BJ Hodge,1
+BJ Hodge,KM Jadhav,2

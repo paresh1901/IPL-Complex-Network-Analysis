@@ -1,0 +1,329 @@
+striker,non_striker,runs
+MA Agarwal,KL Rahul,301
+KL Rahul,MA Agarwal,274
+KL Rahul,CH Gayle,110
+CH Gayle,KL Rahul,145
+KL Rahul,DJ Hooda,47
+DJ Hooda,KL Rahul,72
+N Pooran,KL Rahul,12
+KL Rahul,N Pooran,16
+M Shahrukh Khan,KL Rahul,29
+KL Rahul,M Shahrukh Khan,51
+JA Richardson,M Shahrukh Khan,15
+M Shahrukh Khan,JA Richardson,16
+CH Gayle,DJ Hooda,8
+DJ Hooda,CH Gayle,19
+DJ Hooda,N Pooran,11
+N Pooran,DJ Hooda,9
+DJ Hooda,M Shahrukh Khan,8
+M Shahrukh Khan,DJ Hooda,15
+M Shahrukh Khan,M Ashwin,26
+M Ashwin,M Shahrukh Khan,13
+M Shahrukh Khan,Mohammed Shami,8
+Mohammed Shami,M Shahrukh Khan,4
+RP Meredith,Mohammed Shami,0
+Mohammed Shami,RP Meredith,5
+MA Agarwal,CH Gayle,18
+CH Gayle,MA Agarwal,27
+N Pooran,CH Gayle,0
+CH Gayle,N Pooran,0
+DJ Hooda,MC Henriques,7
+MC Henriques,DJ Hooda,9
+MC Henriques,M Shahrukh Khan,8
+M Shahrukh Khan,MC Henriques,24
+M Shahrukh Khan,FA Allen,17
+FA Allen,M Shahrukh Khan,6
+M Ashwin,Mohammed Shami,2
+Mohammed Shami,M Ashwin,2
+Mohammed Shami,Arshdeep Singh,2
+Arshdeep Singh,Mohammed Shami,2
+MA Agarwal,DJ Hooda,2
+DJ Hooda,MA Agarwal,2
+MA Agarwal,N Pooran,15
+N Pooran,MA Agarwal,8
+MC Henriques,N Pooran,2
+N Pooran,MC Henriques,13
+N Pooran,M Shahrukh Khan,1
+M Shahrukh Khan,N Pooran,3
+M Shahrukh Khan,CJ Jordan,10
+CJ Jordan,M Shahrukh Khan,6
+Ravi Bishnoi,CJ Jordan,1
+CJ Jordan,Ravi Bishnoi,1
+Mohammed Shami,CJ Jordan,0
+CJ Jordan,Mohammed Shami,23
+P Simran Singh,KL Rahul,7
+KL Rahul,P Simran Singh,11
+KL Rahul,Harpreet Brar,35
+Harpreet Brar,KL Rahul,25
+MA Agarwal,P Simran Singh,5
+P Simran Singh,MA Agarwal,12
+MA Agarwal,DJ Malan,25
+DJ Malan,MA Agarwal,26
+M Shahrukh Khan,MA Agarwal,4
+MA Agarwal,M Shahrukh Khan,37
+CJ Jordan,MA Agarwal,2
+MA Agarwal,CJ Jordan,12
+MA Agarwal,Harpreet Brar,15
+Harpreet Brar,MA Agarwal,4
+AK Markram,MA Agarwal,10
+MA Agarwal,AK Markram,11
+SN Khan,AK Markram,0
+AK Markram,SN Khan,7
+AK Markram,M Shahrukh Khan,5
+M Shahrukh Khan,AK Markram,1
+MC Henriques,Harpreet Brar,9
+Harpreet Brar,MC Henriques,3
+KL Rahul,SN Khan,0
+SN Khan,KL Rahul,0
+AK Markram,KL Rahul,32
+KL Rahul,AK Markram,53
+KL Rahul,MC Henriques,10
+MC Henriques,KL Rahul,3
+Mandeep Singh,KL Rahul,15
+KL Rahul,Mandeep Singh,19
+AK Markram,N Pooran,30
+N Pooran,AK Markram,42
+AK Markram,DJ Hooda,47
+DJ Hooda,AK Markram,34
+DJ Hooda,Harpreet Brar,7
+Harpreet Brar,DJ Hooda,12
+NT Ellis,Harpreet Brar,18
+Harpreet Brar,NT Ellis,14
+CH Gayle,AK Markram,13
+AK Markram,CH Gayle,15
+Mohammed Shami,Harpreet Brar,0
+Harpreet Brar,Mohammed Shami,6
+AK Markram,FA Allen,0
+FA Allen,AK Markram,0
+S Dhawan,MA Agarwal,102
+MA Agarwal,S Dhawan,160
+S Dhawan,PBB Rajapaksa,173
+PBB Rajapaksa,S Dhawan,210
+PBB Rajapaksa,LS Livingstone,10
+LS Livingstone,PBB Rajapaksa,8
+LS Livingstone,RA Bawa,9
+RA Bawa,LS Livingstone,5
+LS Livingstone,M Shahrukh Khan,73
+M Shahrukh Khan,LS Livingstone,50
+M Shahrukh Khan,OF Smith,23
+OF Smith,M Shahrukh Khan,27
+S Dhawan,LS Livingstone,101
+LS Livingstone,S Dhawan,218
+M Shahrukh Khan,RA Bawa,0
+RA Bawa,M Shahrukh Khan,6
+M Shahrukh Khan,Harpreet Brar,35
+Harpreet Brar,M Shahrukh Khan,44
+Harpreet Brar,OF Smith,6
+OF Smith,Harpreet Brar,2
+OF Smith,RD Chahar,0
+RD Chahar,OF Smith,0
+OF Smith,K Rabada,8
+K Rabada,OF Smith,31
+OF Smith,Arshdeep Singh,0
+Arshdeep Singh,OF Smith,0
+JM Sharma,LS Livingstone,163
+LS Livingstone,JM Sharma,128
+JM Sharma,M Shahrukh Khan,115
+M Shahrukh Khan,JM Sharma,36
+K Rabada,RD Chahar,9
+RD Chahar,K Rabada,15
+VG Arora,K Rabada,1
+K Rabada,VG Arora,3
+JM Bairstow,S Dhawan,227
+S Dhawan,JM Bairstow,187
+LS Livingstone,OF Smith,6
+OF Smith,LS Livingstone,13
+M Shahrukh Khan,K Rabada,14
+K Rabada,M Shahrukh Khan,3
+RD Chahar,VG Arora,3
+VG Arora,RD Chahar,2
+RD Chahar,Arshdeep Singh,38
+Arshdeep Singh,RD Chahar,20
+S Dhawan,JM Sharma,95
+JM Sharma,S Dhawan,82
+JM Sharma,OF Smith,0
+OF Smith,JM Sharma,1
+P Simran Singh,S Dhawan,178
+S Dhawan,P Simran Singh,124
+P Simran Singh,JM Bairstow,134
+JM Bairstow,P Simran Singh,73
+JM Bairstow,LS Livingstone,24
+LS Livingstone,JM Bairstow,44
+K Rabada,Arshdeep Singh,0
+Arshdeep Singh,K Rabada,0
+MA Agarwal,JM Bairstow,17
+JM Bairstow,MA Agarwal,11
+JM Bairstow,JM Sharma,1
+JM Sharma,JM Bairstow,11
+M Shahrukh Khan,NT Ellis,0
+NT Ellis,M Shahrukh Khan,0
+RD Chahar,M Shahrukh Khan,0
+M Shahrukh Khan,RD Chahar,2
+Arshdeep Singh,VG Arora,5
+VG Arora,Arshdeep Singh,2
+JM Bairstow,PBB Rajapaksa,39
+PBB Rajapaksa,JM Bairstow,37
+JM Bairstow,R Dhawan,11
+R Dhawan,JM Bairstow,0
+R Dhawan,K Rabada,6
+K Rabada,R Dhawan,2
+R Dhawan,RD Chahar,0
+RD Chahar,R Dhawan,5
+Arshdeep Singh,R Dhawan,0
+R Dhawan,Arshdeep Singh,15
+JM Sharma,R Dhawan,26
+R Dhawan,JM Sharma,9
+LS Livingstone,MA Agarwal,32
+MA Agarwal,LS Livingstone,19
+LS Livingstone,Harpreet Brar,8
+Harpreet Brar,LS Livingstone,9
+LS Livingstone,R Dhawan,24
+R Dhawan,LS Livingstone,7
+Harpreet Brar,JM Sharma,14
+JM Sharma,Harpreet Brar,32
+JM Sharma,RD Chahar,23
+RD Chahar,JM Sharma,17
+M Shahrukh Khan,S Dhawan,34
+S Dhawan,M Shahrukh Khan,43
+PN Mankad,LS Livingstone,4
+LS Livingstone,PN Mankad,22
+S Dhawan,Sikandar Raza,2
+Sikandar Raza,S Dhawan,12
+Sikandar Raza,SM Curran,53
+SM Curran,Sikandar Raza,50
+SM Curran,M Shahrukh Khan,49
+M Shahrukh Khan,SM Curran,67
+S Dhawan,SM Curran,37
+SM Curran,S Dhawan,27
+S Dhawan,MW Short,40
+MW Short,S Dhawan,39
+S Dhawan,Harpreet Brar,2
+Harpreet Brar,S Dhawan,1
+S Dhawan,RD Chahar,1
+RD Chahar,S Dhawan,0
+S Dhawan,NT Ellis,10
+NT Ellis,S Dhawan,0
+Mohit Rathee,S Dhawan,1
+S Dhawan,Mohit Rathee,52
+MW Short,PBB Rajapaksa,18
+PBB Rajapaksa,MW Short,5
+PBB Rajapaksa,JM Sharma,11
+JM Sharma,PBB Rajapaksa,25
+PBB Rajapaksa,SM Curran,4
+SM Curran,PBB Rajapaksa,16
+Harpreet Brar,R Dhawan,0
+R Dhawan,Harpreet Brar,1
+P Simran Singh,Atharva Taide,120
+Atharva Taide,P Simran Singh,124
+P Simran Singh,MW Short,17
+MW Short,P Simran Singh,32
+MW Short,Harpreet Singh,21
+Harpreet Singh,MW Short,5
+Sikandar Raza,Harpreet Singh,13
+Harpreet Singh,Sikandar Raza,17
+Sikandar Raza,JM Sharma,7
+JM Sharma,Sikandar Raza,2
+Sikandar Raza,M Shahrukh Khan,29
+M Shahrukh Khan,Sikandar Raza,9
+P Simran Singh,LS Livingstone,18
+LS Livingstone,P Simran Singh,6
+P Simran Singh,Harpreet Singh,2
+Harpreet Singh,P Simran Singh,13
+SM Curran,P Simran Singh,76
+P Simran Singh,SM Curran,139
+JM Sharma,P Simran Singh,16
+P Simran Singh,JM Sharma,15
+JM Sharma,NT Ellis,1
+NT Ellis,JM Sharma,1
+Arshdeep Singh,JM Sharma,0
+JM Sharma,Arshdeep Singh,0
+Atharva Taide,LS Livingstone,48
+LS Livingstone,Atharva Taide,75
+Atharva Taide,Harpreet Singh,0
+Harpreet Singh,Atharva Taide,1
+Harpreet Singh,SM Curran,40
+SM Curran,Harpreet Singh,46
+SM Curran,JM Sharma,124
+JM Sharma,SM Curran,137
+Atharva Taide,Sikandar Raza,41
+Sikandar Raza,Atharva Taide,36
+SM Curran,LS Livingstone,75
+LS Livingstone,SM Curran,100
+M Shahrukh Khan,Arshdeep Singh,2
+Arshdeep Singh,M Shahrukh Khan,2
+MW Short,LS Livingstone,7
+LS Livingstone,MW Short,24
+SM Curran,R Dhawan,1
+R Dhawan,SM Curran,19
+P Simran Singh,Harpreet Brar,10
+Harpreet Brar,P Simran Singh,2
+P Simran Singh,M Shahrukh Khan,24
+M Shahrukh Khan,P Simran Singh,1
+R Dhawan,Sikandar Raza,0
+Sikandar Raza,R Dhawan,2
+RD Chahar,LS Livingstone,0
+LS Livingstone,RD Chahar,17
+S Dhawan,Atharva Taide,16
+Atharva Taide,S Dhawan,19
+LS Livingstone,Shashank Singh,26
+Shashank Singh,LS Livingstone,10
+JM Sharma,Shashank Singh,65
+Shashank Singh,JM Sharma,67
+Shashank Singh,Harpreet Brar,22
+Harpreet Brar,Shashank Singh,3
+Sikandar Raza,Shashank Singh,30
+Shashank Singh,Sikandar Raza,41
+Shashank Singh,Ashutosh Sharma,45
+Ashutosh Sharma,Shashank Singh,96
+JM Bairstow,Atharva Taide,9
+Atharva Taide,JM Bairstow,15
+JM Bairstow,SM Curran,9
+SM Curran,JM Bairstow,9
+LS Livingstone,Ashutosh Sharma,7
+Ashutosh Sharma,LS Livingstone,9
+Ashutosh Sharma,Harpreet Brar,54
+Harpreet Brar,Ashutosh Sharma,21
+SM Curran,RR Rossouw,4
+RR Rossouw,SM Curran,10
+Harpreet Singh,LS Livingstone,0
+LS Livingstone,Harpreet Singh,0
+Harpreet Singh,Shashank Singh,16
+Shashank Singh,Harpreet Singh,24
+Harpreet Brar,HV Patel,4
+HV Patel,Harpreet Brar,13
+HV Patel,K Rabada,0
+K Rabada,HV Patel,8
+Harpreet Singh,Harpreet Brar,9
+Harpreet Brar,Harpreet Singh,29
+HV Patel,Harpreet Singh,0
+Harpreet Singh,HV Patel,1
+Harpreet Singh,K Rabada,1
+K Rabada,Harpreet Singh,1
+RR Rossouw,JM Bairstow,108
+JM Bairstow,RR Rossouw,132
+JM Bairstow,Shashank Singh,15
+Shashank Singh,JM Bairstow,68
+RR Rossouw,Shashank Singh,63
+Shashank Singh,RR Rossouw,23
+SM Curran,Shashank Singh,39
+Shashank Singh,SM Curran,27
+P Simran Singh,RR Rossouw,24
+RR Rossouw,P Simran Singh,28
+Shashank Singh,P Simran Singh,27
+P Simran Singh,Shashank Singh,25
+SM Curran,Ashutosh Sharma,24
+Ashutosh Sharma,SM Curran,28
+Harpreet Brar,RD Chahar,11
+RD Chahar,Harpreet Brar,16
+Harpreet Brar,K Rabada,5
+K Rabada,Harpreet Brar,11
+HV Patel,SM Curran,0
+SM Curran,HV Patel,6
+HV Patel,RD Chahar,0
+RD Chahar,HV Patel,4
+JM Sharma,RR Rossouw,5
+RR Rossouw,JM Sharma,2
+JM Sharma,Ashutosh Sharma,3
+Ashutosh Sharma,JM Sharma,2
+JM Sharma,Shivam Singh,24
+Shivam Singh,JM Sharma,2

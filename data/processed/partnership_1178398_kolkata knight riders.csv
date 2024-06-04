@@ -1,0 +1,20 @@
+SP Narine,CA Lynn,5
+CA Lynn,SP Narine,0
+RV Uthappa,SP Narine,1
+SP Narine,RV Uthappa,1
+N Rana,RV Uthappa,0
+RV Uthappa,N Rana,0
+RV Uthappa,KD Karthik,10
+KD Karthik,RV Uthappa,5
+Shubman Gill,KD Karthik,6
+KD Karthik,Shubman Gill,14
+Shubman Gill,AD Russell,3
+AD Russell,Shubman Gill,0
+AD Russell,PP Chawla,21
+PP Chawla,AD Russell,8
+AD Russell,Kuldeep Yadav,0
+Kuldeep Yadav,AD Russell,0
+M Prasidh Krishna,AD Russell,0
+AD Russell,M Prasidh Krishna,2
+AD Russell,HF Gurney,27
+HF Gurney,AD Russell,1

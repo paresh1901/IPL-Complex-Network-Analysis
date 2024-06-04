@@ -1,0 +1,14 @@
+BB McCullum,DR Smith,12
+DR Smith,BB McCullum,1
+DR Smith,SK Raina,20
+SK Raina,DR Smith,13
+SK Raina,F du Plessis,10
+F du Plessis,SK Raina,9
+F du Plessis,MS Dhoni,24
+MS Dhoni,F du Plessis,20
+P Negi,MS Dhoni,0
+MS Dhoni,P Negi,0
+P Negi,DJ Bravo,15
+DJ Bravo,P Negi,12
+DJ Bravo,RA Jadeja,13
+RA Jadeja,DJ Bravo,14

@@ -1,0 +1,227 @@
+striker,non_striker,runs
+Q de Kock,KL Rahul,485
+KL Rahul,Q de Kock,369
+Q de Kock,E Lewis,22
+E Lewis,Q de Kock,34
+E Lewis,MK Pandey,4
+MK Pandey,E Lewis,2
+MK Pandey,DJ Hooda,4
+DJ Hooda,MK Pandey,4
+DJ Hooda,A Badoni,66
+A Badoni,DJ Hooda,49
+A Badoni,KH Pandya,93
+KH Pandya,A Badoni,120
+KH Pandya,PVD Chameera,1
+PVD Chameera,KH Pandya,1
+Q de Kock,MK Pandey,0
+MK Pandey,Q de Kock,5
+E Lewis,DJ Hooda,16
+DJ Hooda,E Lewis,13
+E Lewis,A Badoni,16
+A Badoni,E Lewis,19
+KL Rahul,E Lewis,9
+E Lewis,KL Rahul,2
+KL Rahul,MK Pandey,78
+MK Pandey,KL Rahul,77
+KL Rahul,DJ Hooda,277
+DJ Hooda,KL Rahul,302
+KL Rahul,A Badoni,90
+A Badoni,KL Rahul,66
+A Badoni,JO Holder,10
+JO Holder,A Badoni,21
+Q de Kock,DJ Hooda,153
+DJ Hooda,Q de Kock,105
+KH Pandya,DJ Hooda,94
+DJ Hooda,KH Pandya,79
+Q de Kock,K Gowtham,0
+K Gowtham,Q de Kock,0
+Q de Kock,JO Holder,4
+JO Holder,Q de Kock,8
+Q de Kock,A Badoni,18
+A Badoni,Q de Kock,6
+KH Pandya,Q de Kock,44
+Q de Kock,KH Pandya,20
+KH Pandya,MP Stoinis,67
+MP Stoinis,KH Pandya,110
+MP Stoinis,PVD Chameera,9
+PVD Chameera,MP Stoinis,13
+MP Stoinis,Avesh Khan,28
+Avesh Khan,MP Stoinis,7
+KL Rahul,MP Stoinis,230
+MP Stoinis,KL Rahul,275
+KL Rahul,KH Pandya,88
+KH Pandya,KL Rahul,118
+A Badoni,MP Stoinis,68
+MP Stoinis,A Badoni,101
+MP Stoinis,JO Holder,11
+JO Holder,MP Stoinis,5
+JO Holder,PVD Chameera,23
+PVD Chameera,JO Holder,6
+PVD Chameera,Ravi Bishnoi,0
+Ravi Bishnoi,PVD Chameera,0
+KL Rahul,JO Holder,0
+JO Holder,KL Rahul,0
+PVD Chameera,Mohsin Khan,12
+Mohsin Khan,PVD Chameera,6
+Mohsin Khan,Avesh Khan,8
+Avesh Khan,Mohsin Khan,3
+A Badoni,PVD Chameera,0
+PVD Chameera,A Badoni,0
+DJ Hooda,KS Sharma,5
+KS Sharma,DJ Hooda,4
+DJ Hooda,MP Stoinis,67
+MP Stoinis,DJ Hooda,75
+DJ Hooda,JO Holder,1
+JO Holder,DJ Hooda,1
+Mohsin Khan,DJ Hooda,1
+DJ Hooda,Mohsin Khan,2
+PVD Chameera,DJ Hooda,0
+DJ Hooda,PVD Chameera,0
+PVD Chameera,Avesh Khan,0
+Avesh Khan,PVD Chameera,12
+Mohsin Khan,MP Stoinis,8
+MP Stoinis,Mohsin Khan,20
+M Vohra,KL Rahul,19
+KL Rahul,M Vohra,8
+E Lewis,KH Pandya,0
+KH Pandya,E Lewis,0
+E Lewis,PVD Chameera,1
+PVD Chameera,E Lewis,11
+KR Mayers,KL Rahul,195
+KL Rahul,KR Mayers,149
+DJ Hooda,KR Mayers,19
+KR Mayers,DJ Hooda,74
+KH Pandya,KR Mayers,1
+KR Mayers,KH Pandya,10
+KH Pandya,N Pooran,37
+N Pooran,KH Pandya,170
+KH Pandya,K Gowtham,0
+K Gowtham,KH Pandya,6
+N Pooran,MP Stoinis,178
+MP Stoinis,N Pooran,177
+N Pooran,A Badoni,241
+A Badoni,N Pooran,211
+K Gowtham,A Badoni,19
+A Badoni,K Gowtham,35
+K Gowtham,MA Wood,0
+MA Wood,K Gowtham,10
+MP Stoinis,R Shepherd,0
+R Shepherd,MP Stoinis,0
+KL Rahul,N Pooran,89
+N Pooran,KL Rahul,156
+JD Unadkat,A Badoni,7
+A Badoni,JD Unadkat,8
+JD Unadkat,MA Wood,2
+MA Wood,JD Unadkat,1
+JD Unadkat,Ravi Bishnoi,0
+Ravi Bishnoi,JD Unadkat,3
+Ravi Bishnoi,Avesh Khan,0
+Avesh Khan,Ravi Bishnoi,0
+A Badoni,Yudhvir Singh,0
+Yudhvir Singh,A Badoni,0
+A Badoni,Ravi Bishnoi,2
+Ravi Bishnoi,A Badoni,3
+KR Mayers,A Badoni,27
+A Badoni,KR Mayers,5
+KR Mayers,MP Stoinis,0
+MP Stoinis,KR Mayers,5
+KH Pandya,Yudhvir Singh,3
+Yudhvir Singh,KH Pandya,2
+PN Mankad,DJ Hooda,0
+DJ Hooda,PN Mankad,1
+PN Mankad,Ravi Bishnoi,0
+Ravi Bishnoi,PN Mankad,0
+N Pooran,DJ Hooda,21
+DJ Hooda,N Pooran,11
+K Gowtham,MP Stoinis,22
+MP Stoinis,K Gowtham,5
+K Gowtham,Ravi Bishnoi,1
+Ravi Bishnoi,K Gowtham,2
+Ravi Bishnoi,A Mishra,5
+A Mishra,Ravi Bishnoi,6
+A Mishra,Naveen-ul-Haq,9
+Naveen-ul-Haq,A Mishra,13
+A Mishra,KL Rahul,4
+KL Rahul,A Mishra,0
+KR Mayers,M Vohra,14
+M Vohra,KR Mayers,4
+M Vohra,KS Sharma,6
+KS Sharma,M Vohra,3
+KS Sharma,KH Pandya,0
+KH Pandya,KS Sharma,0
+KS Sharma,MP Stoinis,1
+MP Stoinis,KS Sharma,6
+KS Sharma,N Pooran,5
+N Pooran,KS Sharma,5
+Q de Kock,KR Mayers,43
+KR Mayers,Q de Kock,50
+Q de Kock,MP Stoinis,62
+MP Stoinis,Q de Kock,52
+Q de Kock,N Pooran,40
+N Pooran,Q de Kock,29
+A Badoni,Swapnil Singh,11
+Swapnil Singh,A Badoni,1
+Swapnil Singh,KH Pandya,0
+KH Pandya,Swapnil Singh,0
+Ravi Bishnoi,Swapnil Singh,4
+Swapnil Singh,Ravi Bishnoi,1
+Q de Kock,PN Mankad,31
+PN Mankad,Q de Kock,47
+PN Mankad,MP Stoinis,29
+MP Stoinis,PN Mankad,40
+PN Mankad,N Pooran,14
+N Pooran,PN Mankad,44
+Q de Kock,KS Sharma,11
+KS Sharma,Q de Kock,3
+K Gowtham,N Pooran,0
+N Pooran,K Gowtham,12
+K Gowtham,Naveen-ul-Haq,11
+Naveen-ul-Haq,K Gowtham,2
+PN Mankad,KR Mayers,3
+KR Mayers,PN Mankad,9
+DJ Hooda,K Gowtham,1
+K Gowtham,DJ Hooda,2
+DJ Hooda,Ravi Bishnoi,4
+Ravi Bishnoi,DJ Hooda,3
+DJ Hooda,Naveen-ul-Haq,0
+Naveen-ul-Haq,DJ Hooda,0
+Mohsin Khan,Naveen-ul-Haq,0
+Naveen-ul-Haq,Mohsin Khan,1
+KL Rahul,D Padikkal,11
+D Padikkal,KL Rahul,10
+Q de Kock,D Padikkal,12
+D Padikkal,Q de Kock,15
+KH Pandya,Ravi Bishnoi,0
+Ravi Bishnoi,KH Pandya,0
+KH Pandya,Mohsin Khan,6
+Mohsin Khan,KH Pandya,2
+Naveen-ul-Haq,KH Pandya,0
+KH Pandya,Naveen-ul-Haq,2
+Arshad Khan,A Badoni,20
+A Badoni,Arshad Khan,48
+KH Pandya,Arshad Khan (2),0
+Arshad Khan (2),KH Pandya,5
+MP Stoinis,D Padikkal,38
+D Padikkal,MP Stoinis,13
+AA Kulkarni,KL Rahul,9
+KL Rahul,AA Kulkarni,12
+N Pooran,AJ Turner,1
+AJ Turner,N Pooran,5
+A Badoni,AJ Turner,3
+AJ Turner,A Badoni,2
+AJ Turner,KH Pandya,14
+KH Pandya,AJ Turner,2
+Yudhvir Singh,Ravi Bishnoi,6
+Ravi Bishnoi,Yudhvir Singh,2
+Naveen-ul-Haq,Ravi Bishnoi,0
+Ravi Bishnoi,Naveen-ul-Haq,0
+KH Pandya,Arshad Khan,9
+Arshad Khan,KH Pandya,23
+Arshad Khan,Yudhvir Singh,17
+Yudhvir Singh,Arshad Khan,14
+Ravi Bishnoi,Arshad Khan,2
+Arshad Khan,Ravi Bishnoi,14
+Naveen-ul-Haq,Arshad Khan,2
+Arshad Khan,Naveen-ul-Haq,4
+KL Rahul,Arshad Khan,0
+Arshad Khan,KL Rahul,0

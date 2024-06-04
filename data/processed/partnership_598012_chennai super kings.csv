@@ -1,0 +1,14 @@
+M Vijay,MEK Hussey,2
+MEK Hussey,M Vijay,1
+MEK Hussey,SK Raina,5
+SK Raina,MEK Hussey,1
+SK Raina,S Badrinath,29
+S Badrinath,SK Raina,25
+MS Dhoni,S Badrinath,3
+S Badrinath,MS Dhoni,9
+RA Jadeja,MS Dhoni,26
+MS Dhoni,RA Jadeja,30
+RA Jadeja,DJ Bravo,0
+DJ Bravo,RA Jadeja,8
+RA Jadeja,CH Morris,12
+CH Morris,RA Jadeja,7

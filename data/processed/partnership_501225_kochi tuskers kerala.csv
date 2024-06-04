@@ -1,0 +1,20 @@
+VVS Laxman,DPMD Jayawardene,8
+DPMD Jayawardene,VVS Laxman,12
+DPMD Jayawardene,PA Patel,1
+PA Patel,DPMD Jayawardene,1
+PA Patel,BJ Hodge,5
+BJ Hodge,PA Patel,8
+PA Patel,RA Jadeja,26
+RA Jadeja,PA Patel,22
+RV Gomez,PA Patel,0
+PA Patel,RV Gomez,0
+RV Gomez,NLTC Perera,0
+NLTC Perera,RV Gomez,0
+KM Jadhav,NLTC Perera,1
+NLTC Perera,KM Jadhav,1
+KM Jadhav,R Vinay Kumar,1
+R Vinay Kumar,KM Jadhav,5
+KM Jadhav,M Muralitharan,3
+M Muralitharan,KM Jadhav,5
+M Muralitharan,RP Singh,0
+RP Singh,M Muralitharan,1

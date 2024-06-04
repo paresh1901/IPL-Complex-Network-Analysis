@@ -1,0 +1,20 @@
+SP Narine,CA Lynn,1
+CA Lynn,SP Narine,4
+SP Narine,G Gambhir,9
+G Gambhir,SP Narine,7
+G Gambhir,RV Uthappa,0
+RV Uthappa,G Gambhir,1
+G Gambhir,IR Jaggi,5
+IR Jaggi,G Gambhir,1
+IR Jaggi,C de Grandhomme,0
+C de Grandhomme,IR Jaggi,0
+SA Yadav,IR Jaggi,27
+IR Jaggi,SA Yadav,27
+SA Yadav,PP Chawla,3
+PP Chawla,SA Yadav,2
+SA Yadav,NM Coulter-Nile,0
+NM Coulter-Nile,SA Yadav,6
+UT Yadav,SA Yadav,0
+SA Yadav,UT Yadav,1
+AS Rajpoot,UT Yadav,4
+UT Yadav,AS Rajpoot,2

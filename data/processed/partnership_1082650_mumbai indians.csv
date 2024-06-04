@@ -1,0 +1,16 @@
+PA Patel,LMP Simmons,4
+LMP Simmons,PA Patel,3
+LMP Simmons,AT Rayudu,0
+AT Rayudu,LMP Simmons,1
+AT Rayudu,RG Sharma,11
+RG Sharma,AT Rayudu,21
+KH Pandya,RG Sharma,10
+RG Sharma,KH Pandya,3
+KA Pollard,KH Pandya,7
+KH Pandya,KA Pollard,2
+HH Pandya,KH Pandya,10
+KH Pandya,HH Pandya,3
+KH Pandya,KV Sharma,0
+KV Sharma,KH Pandya,1
+KH Pandya,MG Johnson,32
+MG Johnson,KH Pandya,13

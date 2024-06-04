@@ -1,0 +1,12 @@
+DP Conway,RD Gaikwad,0
+RD Gaikwad,DP Conway,0
+DP Conway,RV Uthappa,3
+RV Uthappa,DP Conway,22
+RV Uthappa,AT Rayudu,6
+AT Rayudu,RV Uthappa,14
+AT Rayudu,RA Jadeja,1
+RA Jadeja,AT Rayudu,2
+S Dube,RA Jadeja,3
+RA Jadeja,S Dube,6
+RA Jadeja,MS Dhoni,18
+MS Dhoni,RA Jadeja,50

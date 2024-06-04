@@ -1,0 +1,12 @@
+Spearman correlation between In-Strength Rank and Batting Average Rank: 0.84
+Spearman correlation between PageRank Rank and Batting Average Rank: 0.82
+Spearman correlation between In-Strength Rank and PageRank Rank: 1.00
+
+Linear Regression Coefficients for In-Strength: [0.08795241 0.92488516]
+Intercept for In-Strength: -4.339097925722797
+
+Linear Regression Coefficients for Batting Average: [ 1.00000000e+00 -1.69264953e-16]
+Intercept for Batting Average: 5.684341886080802e-14
+
+Linear Regression Coefficients for PageRank: [3.66981599e-17 1.00000000e+00]
+Intercept for PageRank: 1.7053025658242404e-13

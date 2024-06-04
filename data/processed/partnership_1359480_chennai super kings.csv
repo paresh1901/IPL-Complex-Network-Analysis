@@ -1,0 +1,16 @@
+DP Conway,RD Gaikwad,40
+RD Gaikwad,DP Conway,57
+DP Conway,S Dube,7
+S Dube,DP Conway,1
+S Dube,MM Ali,26
+MM Ali,S Dube,6
+MM Ali,BA Stokes,13
+BA Stokes,MM Ali,2
+BA Stokes,AT Rayudu,6
+AT Rayudu,BA Stokes,6
+RA Jadeja,AT Rayudu,3
+AT Rayudu,RA Jadeja,20
+AT Rayudu,MS Dhoni,0
+MS Dhoni,AT Rayudu,12
+AT Rayudu,MJ Santner,1
+MJ Santner,AT Rayudu,1

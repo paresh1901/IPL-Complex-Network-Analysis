@@ -1,0 +1,77 @@
+striker,non_striker,runs
+F du Plessis,AM Rahane,47
+AM Rahane,F du Plessis,100
+AM Rahane,KP Pietersen,26
+KP Pietersen,AM Rahane,21
+F du Plessis,KP Pietersen,80
+KP Pietersen,F du Plessis,52
+SPD Smith,F du Plessis,80
+F du Plessis,SPD Smith,67
+SPD Smith,MS Dhoni,45
+MS Dhoni,SPD Smith,32
+MR Marsh,MS Dhoni,7
+MS Dhoni,MR Marsh,1
+MS Dhoni,R Bhatia,49
+R Bhatia,MS Dhoni,1
+NLTC Perera,F du Plessis,8
+F du Plessis,NLTC Perera,3
+MS Dhoni,F du Plessis,1
+F du Plessis,MS Dhoni,9
+IK Pathan,MS Dhoni,8
+MS Dhoni,IK Pathan,9
+R Ashwin,IK Pathan,1
+IK Pathan,R Ashwin,2
+AM Rahane,SPD Smith,68
+SPD Smith,AM Rahane,100
+AM Rahane,MS Dhoni,60
+MS Dhoni,AM Rahane,75
+MS Dhoni,NLTC Perera,65
+NLTC Perera,MS Dhoni,70
+NLTC Perera,R Bhatia,32
+R Bhatia,NLTC Perera,19
+R Ashwin,R Bhatia,10
+R Bhatia,R Ashwin,8
+R Bhatia,Ankit Sharma,4
+Ankit Sharma,R Bhatia,0
+Ankit Sharma,M Ashwin,0
+M Ashwin,Ankit Sharma,0
+I Sharma,Ankit Sharma,0
+Ankit Sharma,I Sharma,3
+NLTC Perera,AM Rahane,40
+AM Rahane,NLTC Perera,24
+AM Rahane,JA Morkel,16
+JA Morkel,AM Rahane,3
+JA Morkel,MS Dhoni,13
+MS Dhoni,JA Morkel,1
+SS Tiwary,AM Rahane,77
+AM Rahane,SS Tiwary,84
+SPD Smith,SS Tiwary,45
+SS Tiwary,SPD Smith,36
+SS Tiwary,PSP Handscomb,7
+PSP Handscomb,SS Tiwary,6
+MS Dhoni,SS Tiwary,22
+SS Tiwary,MS Dhoni,17
+UT Khawaja,AM Rahane,94
+AM Rahane,UT Khawaja,69
+GJ Bailey,AM Rahane,8
+AM Rahane,GJ Bailey,33
+GJ Bailey,R Bhatia,0
+R Bhatia,GJ Bailey,2
+UT Khawaja,GJ Bailey,20
+GJ Bailey,UT Khawaja,17
+R Ashwin,GJ Bailey,22
+GJ Bailey,R Ashwin,27
+R Ashwin,SS Tiwary,7
+SS Tiwary,R Ashwin,3
+R Bhatia,A Zampa,0
+A Zampa,R Bhatia,0
+GJ Bailey,SS Tiwary,28
+SS Tiwary,GJ Bailey,13
+GJ Bailey,IK Pathan,4
+IK Pathan,GJ Bailey,1
+MS Dhoni,R Ashwin,28
+R Ashwin,MS Dhoni,1
+SS Tiwary,UT Khawaja,17
+UT Khawaja,SS Tiwary,12
+MS Dhoni,UT Khawaja,1
+UT Khawaja,MS Dhoni,1

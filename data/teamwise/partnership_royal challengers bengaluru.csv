@@ -1,0 +1,89 @@
+striker,non_striker,runs
+F du Plessis,V Kohli,339
+V Kohli,F du Plessis,341
+V Kohli,RM Patidar,67
+RM Patidar,V Kohli,128
+GJ Maxwell,V Kohli,36
+V Kohli,GJ Maxwell,28
+V Kohli,C Green,154
+C Green,V Kohli,105
+C Green,Anuj Rawat,0
+Anuj Rawat,C Green,1
+Anuj Rawat,KD Karthik,55
+KD Karthik,Anuj Rawat,86
+V Kohli,Anuj Rawat,18
+Anuj Rawat,V Kohli,14
+KD Karthik,MK Lomror,77
+MK Lomror,KD Karthik,84
+V Kohli,KD Karthik,15
+KD Karthik,V Kohli,22
+F du Plessis,RM Patidar,55
+RM Patidar,F du Plessis,71
+GJ Maxwell,RM Patidar,0
+RM Patidar,GJ Maxwell,1
+RM Patidar,C Green,51
+C Green,RM Patidar,69
+RM Patidar,Anuj Rawat,19
+Anuj Rawat,RM Patidar,11
+RM Patidar,MK Lomror,21
+MK Lomror,RM Patidar,12
+MK Lomror,Mayank Dagar,1
+Mayank Dagar,MK Lomror,0
+MK Lomror,RJW Topley,0
+RJW Topley,MK Lomror,1
+RJW Topley,Mohammed Siraj,2
+Mohammed Siraj,RJW Topley,12
+V Kohli,Saurav Chauhan,18
+Saurav Chauhan,V Kohli,9
+F du Plessis,WG Jacks,14
+WG Jacks,F du Plessis,23
+F du Plessis,GJ Maxwell,1
+GJ Maxwell,F du Plessis,0
+F du Plessis,KD Karthik,19
+KD Karthik,F du Plessis,23
+KD Karthik,Saurav Chauhan,8
+Saurav Chauhan,KD Karthik,9
+KD Karthik,Vijaykumar Vyshak,0
+Vijaykumar Vyshak,KD Karthik,0
+KD Karthik,Akash Deep,23
+Akash Deep,KD Karthik,2
+Saurav Chauhan,F du Plessis,0
+F du Plessis,Saurav Chauhan,10
+Anuj Rawat,Vijaykumar Vyshak,17
+Vijaykumar Vyshak,Anuj Rawat,1
+WG Jacks,RM Patidar,80
+RM Patidar,WG Jacks,104
+C Green,SS Prabhudessai,6
+SS Prabhudessai,C Green,6
+SS Prabhudessai,MK Lomror,0
+MK Lomror,SS Prabhudessai,4
+KD Karthik,SS Prabhudessai,13
+SS Prabhudessai,KD Karthik,18
+KD Karthik,KV Sharma,12
+KV Sharma,KD Karthik,2
+Mohammed Siraj,KV Sharma,0
+KV Sharma,Mohammed Siraj,18
+Mohammed Siraj,LH Ferguson,0
+LH Ferguson,Mohammed Siraj,1
+V Kohli,WG Jacks,100
+WG Jacks,V Kohli,120
+C Green,MK Lomror,35
+MK Lomror,C Green,20
+C Green,KD Karthik,27
+KD Karthik,C Green,43
+C Green,Swapnil Singh,2
+Swapnil Singh,C Green,13
+KD Karthik,Swapnil Singh,19
+Swapnil Singh,KD Karthik,15
+WG Jacks,C Green,7
+C Green,WG Jacks,6
+C Green,KV Sharma,2
+KV Sharma,C Green,6
+Mohammed Siraj,C Green,0
+C Green,Mohammed Siraj,2
+C Green,GJ Maxwell,1
+GJ Maxwell,C Green,16
+MK Lomror,Swapnil Singh,4
+Swapnil Singh,MK Lomror,1
+Swapnil Singh,KV Sharma,8
+KV Sharma,Swapnil Singh,5

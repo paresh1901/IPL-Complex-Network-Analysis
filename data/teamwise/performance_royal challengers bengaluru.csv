@@ -1,0 +1,333 @@
+batsman,bowler,runs
+V Kohli,DL Chahar,2
+F du Plessis,DL Chahar,21
+F du Plessis,TU Deshpande,10
+V Kohli,M Theekshana,17
+F du Plessis,M Theekshana,9
+F du Plessis,Mustafizur Rahman,4
+RM Patidar,Mustafizur Rahman,0
+GJ Maxwell,DL Chahar,0
+C Green,DL Chahar,0
+V Kohli,RA Jadeja,17
+C Green,RA Jadeja,11
+C Green,M Theekshana,11
+C Green,Mustafizur Rahman,1
+V Kohli,Mustafizur Rahman,0
+Anuj Rawat,Mustafizur Rahman,13
+KD Karthik,Mustafizur Rahman,9
+KD Karthik,TU Deshpande,25
+Anuj Rawat,TU Deshpande,18
+Anuj Rawat,RA Jadeja,5
+KD Karthik,RA Jadeja,1
+Anuj Rawat,DL Chahar,10
+KD Karthik,DL Chahar,2
+KD Karthik,M Theekshana,12
+Anuj Rawat,M Theekshana,2
+V Kohli,SM Curran,42
+F du Plessis,Arshdeep Singh,4
+V Kohli,Arshdeep Singh,35
+V Kohli,K Rabada,9
+F du Plessis,K Rabada,0
+C Green,K Rabada,3
+RM Patidar,K Rabada,4
+RM Patidar,SM Curran,8
+V Kohli,Harpreet Brar,6
+RM Patidar,Harpreet Brar,2
+RM Patidar,HV Patel,14
+V Kohli,HV Patel,29
+RM Patidar,RD Chahar,27
+V Kohli,RD Chahar,10
+GJ Maxwell,Harpreet Brar,1
+GJ Maxwell,HV Patel,2
+Anuj Rawat,Harpreet Brar,4
+Anuj Rawat,K Rabada,6
+Anuj Rawat,HV Patel,1
+Anuj Rawat,SM Curran,0
+MK Lomror,SM Curran,5
+KD Karthik,SM Curran,6
+MK Lomror,Arshdeep Singh,11
+KD Karthik,Arshdeep Singh,17
+MK Lomror,HV Patel,1
+KD Karthik,HV Patel,11
+V Kohli,MA Starc,40
+F du Plessis,MA Starc,7
+V Kohli,Harshit Rana,23
+F du Plessis,Harshit Rana,8
+C Green,MA Starc,4
+C Green,Harshit Rana,4
+V Kohli,AS Roy,3
+C Green,AS Roy,3
+V Kohli,SP Narine,21
+C Green,SP Narine,21
+C Green,AD Russell,7
+V Kohli,AD Russell,5
+V Kohli,CV Varun,9
+GJ Maxwell,CV Varun,11
+GJ Maxwell,AD Russell,0
+GJ Maxwell,SP Narine,3
+GJ Maxwell,Harshit Rana,14
+RM Patidar,SP Narine,17
+RM Patidar,MA Starc,1
+RM Patidar,AD Russell,1
+Anuj Rawat,AD Russell,3
+Anuj Rawat,Harshit Rana,0
+KD Karthik,Harshit Rana,10
+KD Karthik,AD Russell,27
+KD Karthik,MA Starc,7
+V Kohli,M Siddharth,7
+F du Plessis,M Siddharth,13
+V Kohli,KH Pandya,8
+F du Plessis,KH Pandya,2
+V Kohli,Naveen-ul-Haq,7
+F du Plessis,Naveen-ul-Haq,4
+RM Patidar,M Siddharth,1
+F du Plessis,MP Yadav,0
+RM Patidar,MP Yadav,5
+GJ Maxwell,MP Yadav,0
+C Green,MP Yadav,5
+C Green,Ravi Bishnoi,4
+RM Patidar,Ravi Bishnoi,12
+Anuj Rawat,MP Yadav,3
+Anuj Rawat,Naveen-ul-Haq,1
+RM Patidar,Naveen-ul-Haq,0
+Anuj Rawat,Yash Thakur,2
+RM Patidar,Yash Thakur,10
+Anuj Rawat,Ravi Bishnoi,2
+Anuj Rawat,MP Stoinis,3
+RM Patidar,MP Stoinis,1
+MK Lomror,MP Stoinis,0
+MK Lomror,Yash Thakur,23
+KD Karthik,MP Yadav,1
+KD Karthik,Yash Thakur,2
+KD Karthik,Naveen-ul-Haq,1
+MK Lomror,Naveen-ul-Haq,10
+Mayank Dagar,Naveen-ul-Haq,0
+RJW Topley,Yash Thakur,1
+Mohammed Siraj,Yash Thakur,0
+RJW Topley,Ravi Bishnoi,1
+Mohammed Siraj,Ravi Bishnoi,12
+RJW Topley,Naveen-ul-Haq,1
+Mohammed Siraj,Naveen-ul-Haq,0
+V Kohli,TA Boult,14
+F du Plessis,TA Boult,21
+V Kohli,N Burger,19
+F du Plessis,N Burger,5
+V Kohli,R Ashwin,17
+F du Plessis,R Ashwin,6
+V Kohli,Avesh Khan,47
+F du Plessis,Avesh Khan,14
+V Kohli,YS Chahal,24
+F du Plessis,YS Chahal,6
+V Kohli,R Parag,8
+F du Plessis,R Parag,2
+GJ Maxwell,N Burger,1
+Saurav Chauhan,N Burger,1
+Saurav Chauhan,Avesh Khan,1
+Saurav Chauhan,R Ashwin,7
+Saurav Chauhan,YS Chahal,0
+C Green,YS Chahal,16
+C Green,N Burger,1
+C Green,Avesh Khan,7
+V Kohli,Mohammad Nabi,2
+F du Plessis,Mohammad Nabi,5
+V Kohli,G Coetzee,1
+F du Plessis,G Coetzee,12
+V Kohli,JJ Bumrah,0
+WG Jacks,JJ Bumrah,4
+F du Plessis,Akash Madhwal,6
+WG Jacks,Akash Madhwal,4
+RM Patidar,Akash Madhwal,10
+RM Patidar,G Coetzee,13
+RM Patidar,S Gopal,9
+F du Plessis,S Gopal,21
+F du Plessis,R Shepherd,12
+RM Patidar,R Shepherd,6
+F du Plessis,HH Pandya,1
+RM Patidar,HH Pandya,10
+F du Plessis,JJ Bumrah,4
+RM Patidar,JJ Bumrah,2
+GJ Maxwell,G Coetzee,0
+GJ Maxwell,S Gopal,0
+KD Karthik,S Gopal,2
+KD Karthik,R Shepherd,4
+KD Karthik,Akash Madhwal,33
+KD Karthik,JJ Bumrah,7
+MK Lomror,JJ Bumrah,0
+Saurav Chauhan,JJ Bumrah,3
+Saurav Chauhan,G Coetzee,6
+KD Karthik,G Coetzee,7
+Vijaykumar Vyshak,JJ Bumrah,0
+Akash Deep,JJ Bumrah,1
+Akash Deep,Akash Madhwal,1
+V Kohli,Abhishek Sharma,13
+F du Plessis,Abhishek Sharma,7
+F du Plessis,B Kumar,22
+V Kohli,B Kumar,20
+F du Plessis,Shahbaz Ahmed,17
+V Kohli,Shahbaz Ahmed,6
+V Kohli,T Natarajan,26
+F du Plessis,T Natarajan,1
+F du Plessis,PJ Cummins,25
+V Kohli,PJ Cummins,16
+F du Plessis,M Markande,4
+V Kohli,M Markande,5
+WG Jacks,M Markande,4
+F du Plessis,JD Unadkat,11
+WG Jacks,JD Unadkat,5
+RM Patidar,M Markande,43
+KD Karthik,PJ Cummins,21
+Saurav Chauhan,PJ Cummins,0
+KD Karthik,M Markande,13
+MK Lomror,M Markande,15
+MK Lomror,T Natarajan,3
+KD Karthik,T Natarajan,32
+KD Karthik,JD Unadkat,20
+MK Lomror,JD Unadkat,3
+MK Lomror,PJ Cummins,5
+Anuj Rawat,PJ Cummins,6
+Anuj Rawat,T Natarajan,0
+Anuj Rawat,B Kumar,19
+KD Karthik,B Kumar,8
+Vijaykumar Vyshak,T Natarajan,0
+Vijaykumar Vyshak,B Kumar,1
+WG Jacks,Harshit Rana,8
+F du Plessis,CV Varun,0
+RM Patidar,CV Varun,6
+WG Jacks,CV Varun,15
+WG Jacks,SP Narine,8
+WG Jacks,MA Starc,22
+WG Jacks,Suyash Sharma,2
+RM Patidar,Suyash Sharma,30
+WG Jacks,AD Russell,0
+SS Prabhudessai,AD Russell,9
+MK Lomror,SP Narine,4
+SS Prabhudessai,CV Varun,14
+SS Prabhudessai,Harshit Rana,1
+KD Karthik,CV Varun,1
+KV Sharma,Harshit Rana,2
+KV Sharma,MA Starc,18
+LH Ferguson,MA Starc,1
+WG Jacks,T Natarajan,3
+WG Jacks,Shahbaz Ahmed,1
+RM Patidar,Shahbaz Ahmed,6
+RM Patidar,JD Unadkat,7
+V Kohli,JD Unadkat,7
+RM Patidar,PJ Cummins,3
+C Green,JD Unadkat,11
+C Green,Shahbaz Ahmed,2
+C Green,PJ Cummins,19
+C Green,T Natarajan,5
+Swapnil Singh,PJ Cummins,1
+Swapnil Singh,T Natarajan,11
+V Kohli,Azmatullah Omarzai,2
+F du Plessis,Azmatullah Omarzai,16
+V Kohli,S Sandeep Warrier,6
+F du Plessis,S Sandeep Warrier,7
+V Kohli,R Sai Kishore,19
+F du Plessis,R Sai Kishore,1
+WG Jacks,R Sai Kishore,10
+WG Jacks,Rashid Khan,35
+V Kohli,Rashid Khan,16
+WG Jacks,Noor Ahmad,17
+V Kohli,Noor Ahmad,37
+WG Jacks,MM Sharma,39
+V Kohli,MM Sharma,15
+F du Plessis,MM Sharma,18
+F du Plessis,J Little,34
+V Kohli,MJ Suthar,14
+F du Plessis,MJ Suthar,12
+WG Jacks,J Little,0
+RM Patidar,Noor Ahmad,1
+RM Patidar,J Little,1
+V Kohli,J Little,3
+GJ Maxwell,J Little,4
+C Green,J Little,1
+KD Karthik,J Little,1
+KD Karthik,Noor Ahmad,2
+Swapnil Singh,Noor Ahmad,8
+KD Karthik,Rashid Khan,18
+Swapnil Singh,Rashid Khan,7
+V Kohli,V Kaverappa,18
+F du Plessis,V Kaverappa,8
+WG Jacks,V Kaverappa,1
+WG Jacks,SM Curran,11
+RM Patidar,V Kaverappa,9
+RM Patidar,Arshdeep Singh,9
+V Kohli,LS Livingstone,20
+C Green,LS Livingstone,7
+C Green,RD Chahar,13
+C Green,HV Patel,20
+C Green,SM Curran,6
+KD Karthik,RD Chahar,12
+Swapnil Singh,HV Patel,1
+V Kohli,I Sharma,19
+F du Plessis,I Sharma,1
+F du Plessis,KK Ahmed,5
+V Kohli,KK Ahmed,7
+F du Plessis,Mukesh Kumar,0
+WG Jacks,Mukesh Kumar,1
+V Kohli,Mukesh Kumar,1
+RM Patidar,I Sharma,1
+RM Patidar,Mukesh Kumar,14
+WG Jacks,AR Patel,6
+RM Patidar,AR Patel,16
+RM Patidar,Kuldeep Yadav,12
+WG Jacks,Kuldeep Yadav,14
+RM Patidar,KK Ahmed,6
+WG Jacks,KK Ahmed,8
+RM Patidar,Rasikh Salam,3
+WG Jacks,Rasikh Salam,12
+C Green,Rasikh Salam,3
+C Green,AR Patel,2
+C Green,Kuldeep Yadav,17
+MK Lomror,Kuldeep Yadav,8
+MK Lomror,I Sharma,5
+C Green,I Sharma,2
+C Green,KK Ahmed,5
+MK Lomror,KK Ahmed,0
+KD Karthik,KK Ahmed,0
+Swapnil Singh,Rasikh Salam,0
+KV Sharma,Rasikh Salam,2
+KV Sharma,Mukesh Kumar,4
+C Green,Mukesh Kumar,3
+V Kohli,TU Deshpande,14
+F du Plessis,SN Thakur,11
+V Kohli,SN Thakur,5
+V Kohli,MJ Santner,13
+F du Plessis,MJ Santner,8
+F du Plessis,RA Jadeja,26
+RM Patidar,MJ Santner,2
+RM Patidar,RA Jadeja,1
+RM Patidar,M Theekshana,9
+C Green,Simarjeet Singh,6
+RM Patidar,Simarjeet Singh,11
+RM Patidar,SN Thakur,5
+C Green,SN Thakur,25
+RM Patidar,TU Deshpande,13
+C Green,TU Deshpande,2
+KD Karthik,SN Thakur,3
+GJ Maxwell,TU Deshpande,4
+GJ Maxwell,SN Thakur,12
+MK Lomror,SN Thakur,0
+F du Plessis,Sandeep Sharma,7
+V Kohli,Sandeep Sharma,17
+C Green,TA Boult,0
+C Green,Sandeep Sharma,1
+C Green,R Ashwin,7
+RM Patidar,YS Chahal,14
+RM Patidar,R Ashwin,7
+RM Patidar,Avesh Khan,13
+GJ Maxwell,R Ashwin,0
+MK Lomror,R Ashwin,0
+MK Lomror,YS Chahal,14
+KD Karthik,Avesh Khan,2
+MK Lomror,Avesh Khan,5
+KD Karthik,YS Chahal,2
+KD Karthik,Sandeep Sharma,6
+MK Lomror,Sandeep Sharma,4
+MK Lomror,TA Boult,9
+KD Karthik,TA Boult,1
+Swapnil Singh,Avesh Khan,1
+KV Sharma,Avesh Khan,0
+Swapnil Singh,Sandeep Sharma,8
+KV Sharma,Sandeep Sharma,5

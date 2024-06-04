@@ -1,0 +1,9 @@
+pyyaml
+pandas
+networkx
+matplotlib
+scipy
+numpy
+tabulate
+seaborn
+scikit-learn

@@ -1,0 +1,114 @@
+**************************************** royal challengers bangalore ****************************************
+Played in 240 matches as per data.
+Batsmen : 144
+BPN Edges : 1194
+
+
+**************************************** sunrisers hyderabad ****************************************
+Played in 182 matches as per data.
+Batsmen : 97
+BPN Edges : 838
+
+
+**************************************** mumbai indians ****************************************
+Played in 261 matches as per data.
+Batsmen : 135
+BPN Edges : 1068
+
+
+**************************************** rising pune supergiant ****************************************
+Played in 16 matches as per data.
+Batsmen : 20
+BPN Edges : 76
+
+
+**************************************** gujarat lions ****************************************
+Played in 30 matches as per data.
+Batsmen : 24
+BPN Edges : 136
+
+
+**************************************** kolkata knight riders ****************************************
+Played in 251 matches as per data.
+Batsmen : 126
+BPN Edges : 1028
+
+
+**************************************** kings xi punjab ****************************************
+Played in 190 matches as per data.
+Batsmen : 114
+BPN Edges : 958
+
+
+**************************************** delhi daredevils ****************************************
+Played in 161 matches as per data.
+Batsmen : 100
+BPN Edges : 880
+
+
+**************************************** chennai super kings ****************************************
+Played in 237 matches as per data.
+Batsmen : 80
+BPN Edges : 638
+
+
+**************************************** rajasthan royals ****************************************
+Played in 220 matches as per data.
+Batsmen : 142
+BPN Edges : 1078
+
+
+**************************************** delhi capitals ****************************************
+Played in 91 matches as per data.
+Batsmen : 64
+BPN Edges : 458
+
+
+**************************************** punjab kings ****************************************
+Played in 56 matches as per data.
+Batsmen : 45
+BPN Edges : 328
+
+
+**************************************** gujarat titans ****************************************
+Played in 45 matches as per data.
+Batsmen : 27
+BPN Edges : 148
+
+
+**************************************** lucknow super giants ****************************************
+Played in 44 matches as per data.
+Batsmen : 31
+BPN Edges : 226
+
+
+**************************************** royal challengers bengaluru ****************************************
+Played in 15 matches as per data.
+Batsmen : 19
+BPN Edges : 88
+
+
+**************************************** deccan chargers ****************************************
+Played in 75 matches as per data.
+Batsmen : 59
+BPN Edges : 410
+
+
+**************************************** kochi tuskers kerala ****************************************
+Played in 14 matches as per data.
+Batsmen : 19
+BPN Edges : 92
+
+
+**************************************** pune warriors ****************************************
+Played in 45 matches as per data.
+Batsmen : 43
+BPN Edges : 322
+
+
+**************************************** rising pune supergiants ****************************************
+Played in 14 matches as per data.
+Batsmen : 19
+BPN Edges : 76
+
+

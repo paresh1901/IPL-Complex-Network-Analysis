@@ -1,0 +1,18 @@
+R Dravid,S Chanderpaul,0
+S Chanderpaul,R Dravid,1
+LRPL Taylor,S Chanderpaul,12
+S Chanderpaul,LRPL Taylor,1
+JH Kallis,LRPL Taylor,11
+LRPL Taylor,JH Kallis,32
+LRPL Taylor,V Kohli,0
+V Kohli,LRPL Taylor,4
+MV Boucher,V Kohli,3
+V Kohli,MV Boucher,9
+MV Boucher,P Kumar,1
+P Kumar,MV Boucher,0
+P Kumar,SB Joshi,9
+SB Joshi,P Kumar,3
+Z Khan,P Kumar,15
+P Kumar,Z Khan,25
+R Vinay Kumar,Z Khan,1
+Z Khan,R Vinay Kumar,2

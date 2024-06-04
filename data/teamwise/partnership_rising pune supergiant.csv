@@ -1,0 +1,77 @@
+striker,non_striker,runs
+MA Agarwal,AM Rahane,18
+AM Rahane,MA Agarwal,38
+AM Rahane,SPD Smith,148
+SPD Smith,AM Rahane,116
+BA Stokes,SPD Smith,74
+SPD Smith,BA Stokes,69
+MS Dhoni,SPD Smith,77
+SPD Smith,MS Dhoni,95
+MS Dhoni,BA Stokes,50
+BA Stokes,MS Dhoni,89
+BA Stokes,MK Tiwary,80
+MK Tiwary,BA Stokes,46
+MK Tiwary,DT Christian,24
+DT Christian,MK Tiwary,28
+R Bhatia,MK Tiwary,0
+MK Tiwary,R Bhatia,1
+MA Agarwal,F du Plessis,8
+F du Plessis,MA Agarwal,2
+RA Tripathi,F du Plessis,10
+F du Plessis,RA Tripathi,4
+BA Stokes,F du Plessis,1
+F du Plessis,BA Stokes,2
+MS Dhoni,R Bhatia,10
+R Bhatia,MS Dhoni,15
+DL Chahar,R Bhatia,13
+R Bhatia,DL Chahar,1
+DL Chahar,A Zampa,1
+A Zampa,DL Chahar,5
+A Zampa,AB Dinda,0
+AB Dinda,A Zampa,6
+Imran Tahir,AB Dinda,0
+AB Dinda,Imran Tahir,1
+RA Tripathi,AM Rahane,156
+AM Rahane,RA Tripathi,146
+RA Tripathi,SPD Smith,157
+SPD Smith,RA Tripathi,121
+MK Tiwary,MS Dhoni,102
+MS Dhoni,MK Tiwary,136
+MK Tiwary,Ankit Sharma,20
+Ankit Sharma,MK Tiwary,25
+SN Thakur,MK Tiwary,0
+MK Tiwary,SN Thakur,0
+LH Ferguson,SN Thakur,0
+SN Thakur,LH Ferguson,0
+LH Ferguson,RD Chahar,1
+RD Chahar,LH Ferguson,3
+BA Stokes,DT Christian,32
+DT Christian,BA Stokes,18
+MK Tiwary,JD Unadkat,27
+JD Unadkat,MK Tiwary,2
+RA Tripathi,MS Dhoni,5
+MS Dhoni,RA Tripathi,13
+DT Christian,Washington Sundar,10
+Washington Sundar,DT Christian,3
+SPD Smith,MK Tiwary,59
+MK Tiwary,SPD Smith,53
+SPD Smith,DT Christian,12
+DT Christian,SPD Smith,16
+MK Tiwary,RA Tripathi,8
+RA Tripathi,MK Tiwary,21
+RA Tripathi,BA Stokes,34
+BA Stokes,RA Tripathi,40
+RA Tripathi,DT Christian,8
+DT Christian,RA Tripathi,3
+MS Dhoni,DT Christian,0
+DT Christian,MS Dhoni,4
+MS Dhoni,Washington Sundar,4
+Washington Sundar,MS Dhoni,1
+Washington Sundar,SN Thakur,0
+SN Thakur,Washington Sundar,0
+JD Unadkat,Washington Sundar,0
+Washington Sundar,JD Unadkat,0
+MK Tiwary,Washington Sundar,13
+Washington Sundar,MK Tiwary,5
+AM Rahane,MK Tiwary,50
+MK Tiwary,AM Rahane,30

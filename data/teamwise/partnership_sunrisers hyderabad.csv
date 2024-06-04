@@ -1,0 +1,839 @@
+striker,non_striker,runs
+S Dhawan,DA Warner,888
+DA Warner,S Dhawan,1354
+S Dhawan,MC Henriques,129
+MC Henriques,S Dhawan,142
+Yuvraj Singh,MC Henriques,115
+MC Henriques,Yuvraj Singh,51
+DJ Hooda,Yuvraj Singh,72
+Yuvraj Singh,DJ Hooda,108
+DJ Hooda,BCJ Cutting,1
+BCJ Cutting,DJ Hooda,16
+DA Warner,MC Henriques,346
+MC Henriques,DA Warner,291
+DJ Hooda,S Dhawan,28
+S Dhawan,DJ Hooda,21
+Yuvraj Singh,S Dhawan,57
+S Dhawan,Yuvraj Singh,94
+Yuvraj Singh,BCJ Cutting,36
+BCJ Cutting,Yuvraj Singh,28
+BCJ Cutting,NV Ojha,25
+NV Ojha,BCJ Cutting,19
+NV Ojha,V Shankar,9
+V Shankar,NV Ojha,8
+NV Ojha,Rashid Khan,4
+Rashid Khan,NV Ojha,1
+B Kumar,Rashid Khan,17
+Rashid Khan,B Kumar,79
+A Nehra,B Kumar,0
+B Kumar,A Nehra,3
+NV Ojha,Bipul Sharma,17
+Bipul Sharma,NV Ojha,26
+DA Warner,Yuvraj Singh,69
+Yuvraj Singh,DA Warner,56
+DA Warner,NV Ojha,194
+NV Ojha,DA Warner,168
+DA Warner,DJ Hooda,68
+DJ Hooda,DA Warner,62
+Mohammad Nabi,DA Warner,17
+DA Warner,Mohammad Nabi,16
+Rashid Khan,DA Warner,7
+DA Warner,Rashid Khan,20
+KS Williamson,S Dhawan,440
+S Dhawan,KS Williamson,410
+MC Henriques,DJ Hooda,69
+DJ Hooda,MC Henriques,31
+KS Williamson,DA Warner,135
+DA Warner,KS Williamson,179
+Yuvraj Singh,KS Williamson,70
+KS Williamson,Yuvraj Singh,69
+MC Henriques,KS Williamson,21
+KS Williamson,MC Henriques,44
+NV Ojha,Yuvraj Singh,9
+Yuvraj Singh,NV Ojha,37
+Bipul Sharma,Rashid Khan,5
+Rashid Khan,Bipul Sharma,3
+S Kaul,B Kumar,8
+B Kumar,S Kaul,7
+A Nehra,S Kaul,0
+S Kaul,A Nehra,0
+V Shankar,S Dhawan,15
+S Dhawan,V Shankar,12
+V Shankar,DA Warner,121
+DA Warner,V Shankar,128
+Yuvraj Singh,V Shankar,9
+V Shankar,Yuvraj Singh,15
+CJ Jordan,NV Ojha,0
+NV Ojha,CJ Jordan,1
+S Dhawan,WP Saha,88
+WP Saha,S Dhawan,76
+MK Pandey,S Dhawan,13
+S Dhawan,MK Pandey,3
+Shakib Al Hasan,MK Pandey,78
+MK Pandey,Shakib Al Hasan,60
+DJ Hooda,Shakib Al Hasan,26
+Shakib Al Hasan,DJ Hooda,38
+YK Pathan,DJ Hooda,47
+DJ Hooda,YK Pathan,34
+DJ Hooda,Rashid Khan,0
+Rashid Khan,DJ Hooda,0
+DJ Hooda,S Kaul,1
+S Kaul,DJ Hooda,0
+DJ Hooda,Sandeep Sharma,0
+Sandeep Sharma,DJ Hooda,0
+B Stanlake,DJ Hooda,5
+DJ Hooda,B Stanlake,8
+KS Williamson,MK Pandey,223
+MK Pandey,KS Williamson,236
+KS Williamson,Shakib Al Hasan,109
+Shakib Al Hasan,KS Williamson,97
+KS Williamson,DJ Hooda,24
+DJ Hooda,KS Williamson,16
+WP Saha,KS Williamson,56
+KS Williamson,WP Saha,33
+KS Williamson,YK Pathan,74
+YK Pathan,KS Williamson,89
+DJ Hooda,MK Pandey,26
+MK Pandey,DJ Hooda,34
+KS Williamson,RK Bhui,0
+RK Bhui,KS Williamson,0
+YK Pathan,WP Saha,15
+WP Saha,YK Pathan,1
+Rashid Khan,WP Saha,18
+WP Saha,Rashid Khan,18
+YK Pathan,Mohammad Nabi,10
+Mohammad Nabi,YK Pathan,35
+YK Pathan,Rashid Khan,24
+Rashid Khan,YK Pathan,25
+YK Pathan,Basil Thampi,3
+Basil Thampi,YK Pathan,3
+YK Pathan,S Kaul,1
+S Kaul,YK Pathan,2
+YK Pathan,Sandeep Sharma,9
+Sandeep Sharma,YK Pathan,0
+WP Saha,MK Pandey,110
+MK Pandey,WP Saha,96
+YK Pathan,MK Pandey,40
+MK Pandey,YK Pathan,39
+S Dhawan,AD Hales,77
+AD Hales,S Dhawan,106
+AD Hales,KS Williamson,42
+KS Williamson,AD Hales,67
+Basil Thampi,WP Saha,0
+WP Saha,Basil Thampi,0
+Shakib Al Hasan,YK Pathan,14
+YK Pathan,Shakib Al Hasan,30
+B Kumar,Sandeep Sharma,15
+Sandeep Sharma,B Kumar,9
+SP Goswami,S Dhawan,40
+S Dhawan,SP Goswami,43
+CR Brathwaite,MK Pandey,3
+MK Pandey,CR Brathwaite,9
+Rashid Khan,Shakib Al Hasan,0
+Shakib Al Hasan,Rashid Khan,4
+SP Goswami,KS Williamson,12
+KS Williamson,SP Goswami,22
+YK Pathan,CR Brathwaite,25
+CR Brathwaite,YK Pathan,33
+B Kumar,CR Brathwaite,7
+CR Brathwaite,B Kumar,39
+WP Saha,Shakib Al Hasan,19
+Shakib Al Hasan,WP Saha,14
+JM Bairstow,DA Warner,688
+DA Warner,JM Bairstow,648
+YK Pathan,V Shankar,1
+V Shankar,YK Pathan,6
+V Shankar,MK Pandey,169
+MK Pandey,V Shankar,173
+KS Williamson,JM Bairstow,133
+JM Bairstow,KS Williamson,135
+V Shankar,KS Williamson,92
+KS Williamson,V Shankar,70
+DA Warner,YK Pathan,22
+YK Pathan,DA Warner,6
+V Shankar,DJ Hooda,0
+DJ Hooda,V Shankar,6
+Mohammad Nabi,DJ Hooda,17
+DJ Hooda,Mohammad Nabi,16
+Mohammad Nabi,Rashid Khan,0
+Rashid Khan,Mohammad Nabi,1
+Mohammad Nabi,B Kumar,0
+B Kumar,Mohammad Nabi,1
+S Kaul,Sandeep Sharma,0
+Sandeep Sharma,S Kaul,5
+MK Pandey,DA Warner,392
+DA Warner,MK Pandey,368
+DA Warner,RK Bhui,15
+RK Bhui,DA Warner,7
+DJ Hooda,Abhishek Sharma,3
+Abhishek Sharma,DJ Hooda,1
+Abhishek Sharma,Rashid Khan,1
+Rashid Khan,Abhishek Sharma,6
+B Kumar,Abhishek Sharma,1
+Abhishek Sharma,B Kumar,1
+Sandeep Sharma,KK Ahmed,0
+KK Ahmed,Sandeep Sharma,0
+V Shankar,JM Bairstow,7
+JM Bairstow,V Shankar,27
+JM Bairstow,DJ Hooda,11
+DJ Hooda,JM Bairstow,13
+YK Pathan,JM Bairstow,0
+JM Bairstow,YK Pathan,6
+Shakib Al Hasan,V Shankar,3
+V Shankar,Shakib Al Hasan,1
+S Kaul,Rashid Khan,0
+Rashid Khan,S Kaul,12
+WP Saha,DA Warner,135
+DA Warner,WP Saha,209
+KS Williamson,Mohammad Nabi,20
+Mohammad Nabi,KS Williamson,21
+Rashid Khan,V Shankar,0
+V Shankar,Rashid Khan,5
+V Shankar,Abhishek Sharma,3
+Abhishek Sharma,V Shankar,7
+MJ Guptill,WP Saha,62
+WP Saha,MJ Guptill,53
+MK Pandey,MJ Guptill,37
+MJ Guptill,MK Pandey,19
+MK Pandey,Abhishek Sharma,11
+Abhishek Sharma,MK Pandey,10
+MK Pandey,Mohammad Nabi,44
+Mohammad Nabi,MK Pandey,48
+Rashid Khan,MK Pandey,9
+MK Pandey,Rashid Khan,10
+Mohammad Nabi,MJ Guptill,6
+MJ Guptill,Mohammad Nabi,1
+KS Williamson,Rashid Khan,12
+Rashid Khan,KS Williamson,1
+B Kumar,KS Williamson,7
+KS Williamson,B Kumar,28
+V Shankar,Mohammad Nabi,22
+Mohammad Nabi,V Shankar,14
+B Kumar,Basil Thampi,0
+Basil Thampi,B Kumar,1
+JM Bairstow,MK Pandey,145
+MK Pandey,JM Bairstow,115
+MK Pandey,Abdul Samad,12
+Abdul Samad,MK Pandey,28
+V Shankar,JO Holder,8
+JO Holder,V Shankar,8
+JO Holder,PK Garg,1
+PK Garg,JO Holder,1
+PK Garg,Rashid Khan,0
+Rashid Khan,PK Garg,0
+Sandeep Sharma,PK Garg,0
+PK Garg,Sandeep Sharma,2
+T Natarajan,PK Garg,0
+PK Garg,T Natarajan,0
+T Natarajan,KK Ahmed,0
+KK Ahmed,T Natarajan,0
+Abhishek Sharma,KS Williamson,285
+KS Williamson,Abhishek Sharma,165
+Abhishek Sharma,JO Holder,6
+JO Holder,Abhishek Sharma,19
+Abdul Samad,JO Holder,11
+JO Holder,Abdul Samad,20
+PK Garg,KS Williamson,39
+KS Williamson,PK Garg,72
+JM Bairstow,PK Garg,26
+PK Garg,JM Bairstow,14
+DA Warner,Abdul Samad,14
+Abdul Samad,DA Warner,23
+JM Bairstow,Abdul Samad,0
+Abdul Samad,JM Bairstow,2
+Abhishek Sharma,PK Garg,62
+PK Garg,Abhishek Sharma,60
+Abdul Samad,PK Garg,14
+PK Garg,Abdul Samad,22
+S Nadeem,Rashid Khan,5
+Rashid Khan,S Nadeem,14
+Sandeep Sharma,S Nadeem,2
+S Nadeem,Sandeep Sharma,2
+T Natarajan,Sandeep Sharma,3
+Sandeep Sharma,T Natarajan,8
+Abdul Samad,KS Williamson,45
+KS Williamson,Abdul Samad,39
+Abhishek Sharma,Abdul Samad,22
+Abdul Samad,Abhishek Sharma,38
+PK Garg,V Shankar,0
+V Shankar,PK Garg,0
+Rashid Khan,Sandeep Sharma,2
+Sandeep Sharma,Rashid Khan,1
+MR Marsh,Sandeep Sharma,0
+Sandeep Sharma,MR Marsh,1
+DA Warner,PK Garg,8
+PK Garg,DA Warner,16
+Abhishek Sharma,DA Warner,5
+DA Warner,Abhishek Sharma,3
+WP Saha,Mohammad Nabi,4
+Mohammad Nabi,WP Saha,11
+Mohammad Nabi,Abhishek Sharma,0
+Abhishek Sharma,Mohammad Nabi,2
+SP Goswami,DA Warner,0
+DA Warner,SP Goswami,1
+JO Holder,KS Williamson,35
+KS Williamson,JO Holder,75
+PK Garg,MK Pandey,38
+MK Pandey,PK Garg,47
+Rashid Khan,Abdul Samad,24
+Abdul Samad,Rashid Khan,34
+SP Goswami,Rashid Khan,0
+Rashid Khan,SP Goswami,0
+S Nadeem,SP Goswami,0
+SP Goswami,S Nadeem,0
+Abdul Samad,V Shankar,7
+V Shankar,Abdul Samad,19
+JO Holder,Rashid Khan,23
+Rashid Khan,JO Holder,20
+B Kumar,S Nadeem,0
+S Nadeem,B Kumar,0
+T Natarajan,B Kumar,0
+B Kumar,T Natarajan,1
+Virat Singh,DA Warner,6
+DA Warner,Virat Singh,12
+Virat Singh,V Shankar,5
+V Shankar,Virat Singh,5
+B Kumar,V Shankar,0
+V Shankar,B Kumar,4
+Mujeeb Ur Rahman,B Kumar,0
+B Kumar,Mujeeb Ur Rahman,1
+Mujeeb Ur Rahman,KK Ahmed,1
+KK Ahmed,Mujeeb Ur Rahman,1
+KS Williamson,Virat Singh,23
+Virat Singh,KS Williamson,4
+KS Williamson,KM Jadhav,42
+KM Jadhav,KS Williamson,32
+KS Williamson,J Suchith,5
+J Suchith,KS Williamson,14
+KM Jadhav,Mohammad Nabi,5
+Mohammad Nabi,KM Jadhav,17
+Abdul Samad,KM Jadhav,20
+KM Jadhav,Abdul Samad,6
+Rashid Khan,KM Jadhav,0
+KM Jadhav,Rashid Khan,0
+Abhishek Sharma,JJ Roy,38
+JJ Roy,Abhishek Sharma,35
+JO Holder,MK Pandey,1
+MK Pandey,JO Holder,7
+MK Pandey,S Kaul,10
+S Kaul,MK Pandey,1
+WP Saha,JJ Roy,35
+JJ Roy,WP Saha,33
+WP Saha,PK Garg,13
+PK Garg,WP Saha,7
+Abhishek Sharma,WP Saha,2
+WP Saha,Abhishek Sharma,6
+KS Williamson,JJ Roy,61
+JJ Roy,KS Williamson,75
+JJ Roy,PK Garg,6
+PK Garg,JJ Roy,15
+Abdul Samad,JJ Roy,1
+JJ Roy,Abdul Samad,1
+WP Saha,Abdul Samad,1
+Abdul Samad,WP Saha,1
+WP Saha,JO Holder,15
+JO Holder,WP Saha,34
+KM Jadhav,MK Pandey,0
+MK Pandey,KM Jadhav,1
+KM Jadhav,WP Saha,12
+WP Saha,KM Jadhav,11
+B Kumar,JO Holder,3
+JO Holder,B Kumar,10
+Abhishek Sharma,RA Tripathi,203
+RA Tripathi,Abhishek Sharma,238
+Abhishek Sharma,N Pooran,1
+N Pooran,Abhishek Sharma,0
+Abhishek Sharma,AK Markram,199
+AK Markram,Abhishek Sharma,124
+AK Markram,Abdul Samad,28
+Abdul Samad,AK Markram,54
+AK Markram,R Shepherd,16
+R Shepherd,AK Markram,24
+AK Markram,Washington Sundar,53
+Washington Sundar,AK Markram,46
+AK Markram,B Kumar,12
+B Kumar,AK Markram,3
+RA Tripathi,AK Markram,244
+AK Markram,RA Tripathi,148
+RA Tripathi,N Pooran,66
+N Pooran,RA Tripathi,65
+N Pooran,Washington Sundar,31
+Washington Sundar,N Pooran,18
+Washington Sundar,Abdul Samad,12
+Abdul Samad,Washington Sundar,9
+Washington Sundar,R Shepherd,26
+R Shepherd,Washington Sundar,33
+R Shepherd,B Kumar,1
+B Kumar,R Shepherd,2
+R Shepherd,Umran Malik,0
+Umran Malik,R Shepherd,1
+KS Williamson,RA Tripathi,42
+RA Tripathi,KS Williamson,47
+KS Williamson,N Pooran,31
+N Pooran,KS Williamson,29
+N Pooran,AK Markram,95
+AK Markram,N Pooran,132
+Shashank Singh,Washington Sundar,6
+Washington Sundar,Shashank Singh,2
+M Jansen,Shashank Singh,9
+Shashank Singh,M Jansen,30
+AK Markram,KS Williamson,17
+KS Williamson,AK Markram,14
+N Pooran,Shashank Singh,30
+Shashank Singh,N Pooran,25
+M Jansen,N Pooran,0
+N Pooran,M Jansen,33
+N Pooran,SA Abbott,11
+SA Abbott,N Pooran,7
+N Pooran,S Gopal,12
+S Gopal,N Pooran,0
+S Gopal,Kartik Tyagi,9
+Kartik Tyagi,S Gopal,7
+S Gopal,B Kumar,0
+B Kumar,S Gopal,5
+RA Tripathi,J Suchith,11
+J Suchith,RA Tripathi,2
+RA Tripathi,Shashank Singh,1
+Shashank Singh,RA Tripathi,8
+Shashank Singh,Kartik Tyagi,0
+Kartik Tyagi,Shashank Singh,0
+Shashank Singh,B Kumar,0
+B Kumar,Shashank Singh,0
+B Kumar,Umran Malik,6
+Umran Malik,B Kumar,3
+B Kumar,Fazalhaq Farooqi,8
+Fazalhaq Farooqi,B Kumar,2
+PK Garg,RA Tripathi,37
+RA Tripathi,PK Garg,39
+Washington Sundar,KS Williamson,9
+KS Williamson,Washington Sundar,7
+R Shepherd,J Suchith,0
+J Suchith,R Shepherd,0
+MA Agarwal,Abhishek Sharma,55
+Abhishek Sharma,MA Agarwal,44
+MA Agarwal,RA Tripathi,37
+RA Tripathi,MA Agarwal,30
+MA Agarwal,HC Brook,69
+HC Brook,MA Agarwal,74
+Washington Sundar,MA Agarwal,1
+MA Agarwal,Washington Sundar,3
+MA Agarwal,GD Phillips,1
+GD Phillips,MA Agarwal,8
+MA Agarwal,Abdul Samad,4
+Abdul Samad,MA Agarwal,3
+AU Rashid,Abdul Samad,22
+Abdul Samad,AU Rashid,6
+B Kumar,Abdul Samad,15
+Abdul Samad,B Kumar,38
+Abdul Samad,Umran Malik,17
+Umran Malik,Abdul Samad,19
+MA Agarwal,Anmolpreet Singh,8
+Anmolpreet Singh,MA Agarwal,13
+Anmolpreet Singh,RA Tripathi,33
+RA Tripathi,Anmolpreet Singh,29
+HC Brook,RA Tripathi,4
+RA Tripathi,HC Brook,11
+Washington Sundar,RA Tripathi,14
+RA Tripathi,Washington Sundar,23
+AK Markram,HC Brook,51
+HC Brook,AK Markram,20
+HC Brook,Abhishek Sharma,55
+Abhishek Sharma,HC Brook,48
+HC Brook,H Klaasen,36
+H Klaasen,HC Brook,62
+MA Agarwal,AK Markram,23
+AK Markram,MA Agarwal,22
+MA Agarwal,H Klaasen,40
+H Klaasen,MA Agarwal,52
+Abdul Samad,M Jansen,23
+M Jansen,Abdul Samad,18
+B Kumar,M Markande,7
+M Markande,B Kumar,15
+AK Markram,H Klaasen,139
+H Klaasen,AK Markram,301
+H Klaasen,M Jansen,19
+M Jansen,H Klaasen,16
+M Jansen,Washington Sundar,10
+Washington Sundar,M Jansen,18
+H Klaasen,Washington Sundar,26
+Washington Sundar,H Klaasen,15
+Abhishek Sharma,H Klaasen,10
+H Klaasen,Abhishek Sharma,13
+H Klaasen,Abdul Samad,83
+Abdul Samad,H Klaasen,110
+AJ Hosein,H Klaasen,16
+H Klaasen,AJ Hosein,18
+Abhishek Sharma,Anmolpreet Singh,26
+Anmolpreet Singh,Abhishek Sharma,48
+RA Tripathi,H Klaasen,44
+H Klaasen,RA Tripathi,61
+AK Markram,GD Phillips,0
+GD Phillips,AK Markram,3
+GD Phillips,Abdul Samad,22
+Abdul Samad,GD Phillips,0
+Anmolpreet Singh,AK Markram,11
+AK Markram,Anmolpreet Singh,15
+H Klaasen,GD Phillips,1
+GD Phillips,H Klaasen,1
+H Klaasen,Sanvir Singh,9
+Sanvir Singh,H Klaasen,7
+B Kumar,H Klaasen,20
+H Klaasen,B Kumar,41
+M Markande,Fazalhaq Farooqi,6
+Fazalhaq Farooqi,M Markande,1
+HC Brook,GD Phillips,1
+GD Phillips,HC Brook,5
+MA Agarwal,Vivrant Sharma,62
+Vivrant Sharma,MA Agarwal,69
+Sanvir Singh,AK Markram,4
+AK Markram,Sanvir Singh,9
+H Klaasen,Shahbaz Ahmed,80
+Shahbaz Ahmed,H Klaasen,52
+M Jansen,PJ Cummins,0
+PJ Cummins,M Jansen,0
+TM Head,MA Agarwal,55
+MA Agarwal,TM Head,32
+TM Head,Abhishek Sharma,372
+Abhishek Sharma,TM Head,297
+AK Markram,Shahbaz Ahmed,14
+Shahbaz Ahmed,AK Markram,16
+Shahbaz Ahmed,Abdul Samad,39
+Abdul Samad,Shahbaz Ahmed,51
+Abdul Samad,PJ Cummins,3
+PJ Cummins,Abdul Samad,14
+TM Head,AK Markram,25
+AK Markram,TM Head,38
+H Klaasen,Nithish Kumar Reddy,108
+Nithish Kumar Reddy,H Klaasen,101
+Abhishek Sharma,Nithish Kumar Reddy,44
+Nithish Kumar Reddy,Abhishek Sharma,17
+RA Tripathi,Nithish Kumar Reddy,25
+Nithish Kumar Reddy,RA Tripathi,22
+Nithish Kumar Reddy,Abdul Samad,24
+Abdul Samad,Nithish Kumar Reddy,25
+Nithish Kumar Reddy,Shahbaz Ahmed,43
+Shahbaz Ahmed,Nithish Kumar Reddy,36
+Shahbaz Ahmed,PJ Cummins,13
+PJ Cummins,Shahbaz Ahmed,45
+Shahbaz Ahmed,B Kumar,21
+B Kumar,Shahbaz Ahmed,22
+Shahbaz Ahmed,JD Unadkat,18
+JD Unadkat,Shahbaz Ahmed,14
+TM Head,H Klaasen,62
+H Klaasen,TM Head,50
+Washington Sundar,Shahbaz Ahmed,0
+Shahbaz Ahmed,Washington Sundar,10
+AK Markram,Nithish Kumar Reddy,31
+Nithish Kumar Reddy,AK Markram,28
+B Kumar,JD Unadkat,1
+JD Unadkat,B Kumar,1
+TM Head,Anmolpreet Singh,4
+Anmolpreet Singh,TM Head,5
+TM Head,Nithish Kumar Reddy,44
+Nithish Kumar Reddy,TM Head,68
+M Jansen,Shahbaz Ahmed,13
+Shahbaz Ahmed,M Jansen,10
+Sanvir Singh,PJ Cummins,8
+PJ Cummins,Sanvir Singh,26
+Abdul Samad,Sanvir Singh,1
+Sanvir Singh,Abdul Samad,6
+RA Tripathi,Shahbaz Ahmed,0
+Shahbaz Ahmed,RA Tripathi,0
+Abdul Samad,RA Tripathi,15
+RA Tripathi,Abdul Samad,4
+PJ Cummins,B Kumar,1
+B Kumar,PJ Cummins,0
+V Viyaskanth,PJ Cummins,7
+PJ Cummins,V Viyaskanth,26
+RA Tripathi,TM Head,39
+TM Head,RA Tripathi,5
+PJ Cummins,JD Unadkat,15
+JD Unadkat,PJ Cummins,9
+H Klaasen,PJ Cummins,3
+PJ Cummins,H Klaasen,9
+PA Patel,PA Reddy,21
+PA Reddy,PA Patel,27
+PA Reddy,KC Sangakkara,11
+KC Sangakkara,PA Reddy,15
+PA Reddy,CL White,12
+CL White,PA Reddy,13
+NLTC Perera,CL White,53
+CL White,NLTC Perera,63
+NLTC Perera,GH Vihari,34
+GH Vihari,NLTC Perera,14
+A Ashish Reddy,GH Vihari,15
+GH Vihari,A Ashish Reddy,15
+A Ashish Reddy,DB Ravi Teja,6
+DB Ravi Teja,A Ashish Reddy,4
+PA Reddy,GH Vihari,32
+GH Vihari,PA Reddy,40
+GH Vihari,KC Sangakkara,18
+KC Sangakkara,GH Vihari,19
+A Mishra,GH Vihari,0
+GH Vihari,A Mishra,3
+GH Vihari,DW Steyn,2
+DW Steyn,GH Vihari,3
+KC Sangakkara,PA Patel,46
+PA Patel,KC Sangakkara,68
+CL White,GH Vihari,46
+GH Vihari,CL White,50
+NLTC Perera,A Ashish Reddy,27
+A Ashish Reddy,NLTC Perera,27
+NLTC Perera,A Mishra,0
+A Mishra,NLTC Perera,10
+DW Steyn,A Mishra,11
+A Mishra,DW Steyn,8
+CL White,PA Patel,34
+PA Patel,CL White,34
+KC Sangakkara,CL White,6
+CL White,KC Sangakkara,17
+KC Sangakkara,DB Ravi Teja,1
+DB Ravi Teja,KC Sangakkara,1
+NLTC Perera,DB Ravi Teja,26
+DB Ravi Teja,NLTC Perera,9
+KV Sharma,NLTC Perera,19
+NLTC Perera,KV Sharma,31
+KV Sharma,GH Vihari,8
+GH Vihari,KV Sharma,4
+A Mishra,KV Sharma,7
+KV Sharma,A Mishra,6
+Q de Kock,PA Patel,2
+PA Patel,Q de Kock,2
+GH Vihari,PA Patel,11
+PA Patel,GH Vihari,18
+BB Samantray,GH Vihari,25
+GH Vihari,BB Samantray,23
+KV Sharma,BB Samantray,8
+BB Samantray,KV Sharma,29
+BB Samantray,NLTC Perera,14
+NLTC Perera,BB Samantray,15
+BB Samantray,A Mishra,20
+A Mishra,BB Samantray,11
+A Mishra,A Ashish Reddy,19
+A Ashish Reddy,A Mishra,19
+A Ashish Reddy,DW Steyn,0
+DW Steyn,A Ashish Reddy,4
+PA Reddy,Q de Kock,0
+Q de Kock,PA Reddy,0
+CL White,BB Samantray,11
+BB Samantray,CL White,5
+S Dhawan,Q de Kock,0
+Q de Kock,S Dhawan,4
+S Dhawan,GH Vihari,101
+GH Vihari,S Dhawan,50
+CL White,S Dhawan,33
+S Dhawan,CL White,38
+S Dhawan,A Mishra,7
+A Mishra,S Dhawan,15
+X Thalaivan Sargunam,S Dhawan,8
+S Dhawan,X Thalaivan Sargunam,14
+X Thalaivan Sargunam,DJG Sammy,2
+DJG Sammy,X Thalaivan Sargunam,13
+A Ashish Reddy,DJG Sammy,26
+DJG Sammy,A Ashish Reddy,18
+A Ashish Reddy,S Dhawan,24
+S Dhawan,A Ashish Reddy,19
+S Dhawan,PA Reddy,9
+PA Reddy,S Dhawan,9
+KC Sangakkara,S Dhawan,25
+S Dhawan,KC Sangakkara,16
+GH Vihari,DJG Sammy,12
+DJG Sammy,GH Vihari,16
+DJG Sammy,A Mishra,29
+A Mishra,DJG Sammy,21
+DW Steyn,DJG Sammy,2
+DJG Sammy,DW Steyn,11
+I Sharma,DW Steyn,0
+DW Steyn,I Sharma,16
+S Dhawan,DJG Sammy,21
+DJG Sammy,S Dhawan,15
+S Dhawan,PA Patel,93
+PA Patel,S Dhawan,105
+PA Patel,A Ashish Reddy,2
+A Ashish Reddy,PA Patel,5
+DJG Sammy,PA Patel,8
+PA Patel,DJG Sammy,2
+DJG Sammy,KC Sangakkara,9
+KC Sangakkara,DJG Sammy,8
+CL White,A Ashish Reddy,9
+A Ashish Reddy,CL White,3
+NLTC Perera,PA Patel,28
+PA Patel,NLTC Perera,22
+DW Steyn,KV Sharma,28
+KV Sharma,DW Steyn,29
+I Sharma,KV Sharma,0
+KV Sharma,I Sharma,2
+PA Patel,BB Samantray,0
+BB Samantray,PA Patel,0
+PA Patel,KV Sharma,20
+KV Sharma,PA Patel,22
+NLTC Perera,DW Steyn,8
+DW Steyn,NLTC Perera,1
+DJG Sammy,BB Samantray,38
+BB Samantray,DJG Sammy,30
+DJG Sammy,NLTC Perera,17
+NLTC Perera,DJG Sammy,13
+S Dhawan,AJ Finch,146
+AJ Finch,S Dhawan,117
+DA Warner,KL Rahul,106
+KL Rahul,DA Warner,58
+KL Rahul,DJG Sammy,22
+DJG Sammy,KL Rahul,31
+DJG Sammy,Y Venugopal Rao,17
+Y Venugopal Rao,DJG Sammy,17
+KV Sharma,Y Venugopal Rao,4
+Y Venugopal Rao,KV Sharma,12
+DW Steyn,Y Venugopal Rao,0
+Y Venugopal Rao,DW Steyn,2
+AJ Finch,DA Warner,103
+DA Warner,AJ Finch,111
+KL Rahul,Y Venugopal Rao,5
+Y Venugopal Rao,KL Rahul,11
+IK Pathan,KL Rahul,5
+KL Rahul,IK Pathan,17
+KL Rahul,KV Sharma,23
+KV Sharma,KL Rahul,16
+A Mishra,B Kumar,2
+B Kumar,A Mishra,1
+AJ Finch,KL Rahul,62
+KL Rahul,AJ Finch,58
+AJ Finch,Y Venugopal Rao,13
+Y Venugopal Rao,AJ Finch,13
+DJG Sammy,AJ Finch,16
+AJ Finch,DJG Sammy,4
+DJG Sammy,KV Sharma,17
+KV Sharma,DJG Sammy,17
+KL Rahul,NV Ojha,13
+NV Ojha,KL Rahul,15
+IK Pathan,NV Ojha,2
+NV Ojha,IK Pathan,19
+S Dhawan,KL Rahul,32
+KL Rahul,S Dhawan,50
+DA Warner,DJG Sammy,13
+DJG Sammy,DA Warner,8
+DA Warner,IK Pathan,5
+IK Pathan,DA Warner,1
+IK Pathan,KV Sharma,8
+KV Sharma,IK Pathan,5
+NV Ojha,MC Henriques,51
+MC Henriques,NV Ojha,28
+MC Henriques,IK Pathan,6
+IK Pathan,MC Henriques,8
+IK Pathan,DW Steyn,10
+DW Steyn,IK Pathan,10
+IK Pathan,A Mishra,0
+A Mishra,IK Pathan,0
+IK Pathan,B Kumar,4
+B Kumar,IK Pathan,0
+S Dhawan,NV Ojha,165
+NV Ojha,S Dhawan,120
+KV Sharma,NV Ojha,1
+NV Ojha,KV Sharma,8
+IK Pathan,DJG Sammy,17
+DJG Sammy,IK Pathan,7
+NV Ojha,AJ Finch,12
+AJ Finch,NV Ojha,10
+Y Venugopal Rao,S Dhawan,16
+S Dhawan,Y Venugopal Rao,6
+S Anirudha,DJG Sammy,3
+DJG Sammy,S Anirudha,2
+DJG Sammy,JO Holder,10
+JO Holder,DJG Sammy,16
+Parvez Rasool,KV Sharma,0
+KV Sharma,Parvez Rasool,5
+RS Bopara,DA Warner,9
+DA Warner,RS Bopara,15
+RS Bopara,KS Williamson,14
+KS Williamson,RS Bopara,6
+KS Williamson,KV Sharma,8
+KV Sharma,KS Williamson,4
+KS Williamson,Parvez Rasool,12
+Parvez Rasool,KS Williamson,2
+NV Ojha,EJG Morgan,86
+EJG Morgan,NV Ojha,68
+EJG Morgan,RS Bopara,50
+RS Bopara,EJG Morgan,19
+RS Bopara,A Ashish Reddy,17
+A Ashish Reddy,RS Bopara,13
+RS Bopara,KL Rahul,31
+KL Rahul,RS Bopara,43
+RS Bopara,NV Ojha,30
+NV Ojha,RS Bopara,20
+EJG Morgan,A Ashish Reddy,23
+A Ashish Reddy,EJG Morgan,42
+KV Sharma,A Ashish Reddy,25
+A Ashish Reddy,KV Sharma,54
+P Kumar,KV Sharma,12
+KV Sharma,P Kumar,32
+RS Bopara,S Dhawan,2
+S Dhawan,RS Bopara,11
+MC Henriques,KL Rahul,11
+KL Rahul,MC Henriques,19
+GH Vihari,RS Bopara,15
+RS Bopara,GH Vihari,6
+B Kumar,KV Sharma,11
+KV Sharma,B Kumar,6
+DA Warner,GH Vihari,36
+GH Vihari,DA Warner,9
+RS Bopara,MC Henriques,17
+MC Henriques,RS Bopara,48
+MC Henriques,A Ashish Reddy,6
+A Ashish Reddy,MC Henriques,11
+EJG Morgan,S Dhawan,35
+S Dhawan,EJG Morgan,50
+GH Vihari,EJG Morgan,8
+EJG Morgan,GH Vihari,17
+EJG Morgan,KV Sharma,7
+KV Sharma,EJG Morgan,30
+MC Henriques,EJG Morgan,42
+EJG Morgan,MC Henriques,43
+GH Vihari,MC Henriques,6
+MC Henriques,GH Vihari,6
+MC Henriques,Bipul Sharma,0
+Bipul Sharma,MC Henriques,1
+KV Sharma,MC Henriques,25
+MC Henriques,KV Sharma,34
+B Kumar,P Kumar,11
+P Kumar,B Kumar,3
+B Kumar,DW Steyn,0
+DW Steyn,B Kumar,1
+EJG Morgan,DA Warner,42
+DA Warner,EJG Morgan,36
+DW Steyn,P Kumar,19
+P Kumar,DW Steyn,2
+EJG Morgan,DJ Hooda,25
+DJ Hooda,EJG Morgan,16
+S Dhawan,AP Tare,14
+AP Tare,S Dhawan,8
+S Dhawan,Bipul Sharma,8
+Bipul Sharma,S Dhawan,5
+S Dhawan,B Kumar,0
+B Kumar,S Dhawan,21
+A Nehra,S Dhawan,0
+S Dhawan,A Nehra,3
+DJ Hooda,NV Ojha,14
+NV Ojha,DJ Hooda,7
+NV Ojha,B Kumar,12
+B Kumar,NV Ojha,16
+B Kumar,BB Sran,0
+BB Sran,B Kumar,1
+KS Williamson,NV Ojha,0
+NV Ojha,KS Williamson,2
+BB Sran,NV Ojha,0
+NV Ojha,BB Sran,5
+A Nehra,BB Sran,1
+BB Sran,A Nehra,1
+BB Sran,KV Sharma,2
+KV Sharma,BB Sran,3
+B Kumar,Bipul Sharma,0
+Bipul Sharma,B Kumar,14
+BB Sran,Bipul Sharma,0
+Bipul Sharma,BB Sran,0
+DA Warner,BCJ Cutting,1
+BCJ Cutting,DA Warner,8
+DA Warner,Bipul Sharma,19
+Bipul Sharma,DA Warner,27
+Bipul Sharma,BCJ Cutting,5
+BCJ Cutting,Bipul Sharma,11
+B Kumar,BCJ Cutting,1
+BCJ Cutting,B Kumar,28

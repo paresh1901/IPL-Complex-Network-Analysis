@@ -1,0 +1,20 @@
+F du Plessis,V Kohli,10
+V Kohli,F du Plessis,20
+F du Plessis,RM Patidar,0
+RM Patidar,F du Plessis,0
+RM Patidar,MK Lomror,0
+MK Lomror,RM Patidar,6
+RM Patidar,GJ Maxwell,26
+GJ Maxwell,RM Patidar,35
+KD Karthik,GJ Maxwell,0
+GJ Maxwell,KD Karthik,0
+KD Karthik,Shahbaz Ahmed,11
+Shahbaz Ahmed,KD Karthik,5
+Shahbaz Ahmed,HV Patel,4
+HV Patel,Shahbaz Ahmed,0
+HV Patel,PWH de Silva,9
+PWH de Silva,HV Patel,1
+HV Patel,Mohammed Siraj,2
+Mohammed Siraj,HV Patel,3
+Mohammed Siraj,JR Hazlewood,6
+JR Hazlewood,Mohammed Siraj,7

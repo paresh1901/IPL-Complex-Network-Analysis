@@ -1,0 +1,20 @@
+KL Rahul,Q de Kock,5
+Q de Kock,KL Rahul,2
+Q de Kock,MP Stoinis,10
+MP Stoinis,Q de Kock,5
+MP Stoinis,DJ Hooda,0
+DJ Hooda,MP Stoinis,0
+DJ Hooda,N Pooran,0
+N Pooran,DJ Hooda,20
+N Pooran,A Badoni,21
+A Badoni,N Pooran,6
+N Pooran,KH Pandya,20
+KH Pandya,N Pooran,9
+KH Pandya,Arshad Khan,9
+Arshad Khan,KH Pandya,23
+Arshad Khan,Yudhvir Singh,17
+Yudhvir Singh,Arshad Khan,14
+Ravi Bishnoi,Arshad Khan,2
+Arshad Khan,Ravi Bishnoi,14
+Naveen-ul-Haq,Arshad Khan,2
+Arshad Khan,Naveen-ul-Haq,4

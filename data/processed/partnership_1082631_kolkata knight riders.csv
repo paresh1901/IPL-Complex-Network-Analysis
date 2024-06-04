@@ -1,0 +1,18 @@
+G Gambhir,SP Narine,0
+SP Narine,G Gambhir,0
+SP Jackson,G Gambhir,10
+G Gambhir,SP Jackson,4
+MK Pandey,G Gambhir,1
+G Gambhir,MK Pandey,20
+YK Pathan,MK Pandey,4
+MK Pandey,YK Pathan,11
+MK Pandey,C de Grandhomme,25
+C de Grandhomme,MK Pandey,23
+SA Yadav,C de Grandhomme,3
+C de Grandhomme,SA Yadav,13
+CR Woakes,SA Yadav,1
+SA Yadav,CR Woakes,9
+NM Coulter-Nile,SA Yadav,6
+SA Yadav,NM Coulter-Nile,17
+SA Yadav,UT Yadav,1
+UT Yadav,SA Yadav,2

@@ -1,0 +1,20 @@
+V Sehwag,G Gambhir,9
+G Gambhir,V Sehwag,7
+G Gambhir,TM Dilshan,1
+TM Dilshan,G Gambhir,0
+TM Dilshan,AB de Villiers,8
+AB de Villiers,TM Dilshan,11
+TM Dilshan,M Manhas,2
+M Manhas,TM Dilshan,3
+M Manhas,KD Karthik,23
+KD Karthik,M Manhas,23
+KD Karthik,MF Maharoof,0
+MF Maharoof,KD Karthik,3
+DL Vettori,KD Karthik,1
+KD Karthik,DL Vettori,6
+KD Karthik,R Bhatia,0
+R Bhatia,KD Karthik,0
+PJ Sangwan,KD Karthik,2
+KD Karthik,PJ Sangwan,3
+A Nehra,PJ Sangwan,1
+PJ Sangwan,A Nehra,3

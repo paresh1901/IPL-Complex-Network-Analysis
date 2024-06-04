@@ -1,0 +1,14 @@
+AM Rahane,SR Watson,6
+SR Watson,AM Rahane,12
+SR Watson,JP Faulkner,6
+JP Faulkner,SR Watson,1
+SR Watson,SV Samson,17
+SV Samson,SR Watson,23
+SV Samson,DH Yagnik,2
+DH Yagnik,SV Samson,10
+SV Samson,OA Shah,15
+OA Shah,SV Samson,19
+STR Binny,OA Shah,3
+OA Shah,STR Binny,5
+STR Binny,R Dravid,0
+R Dravid,STR Binny,6

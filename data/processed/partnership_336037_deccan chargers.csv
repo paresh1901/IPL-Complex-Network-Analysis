@@ -1,0 +1,16 @@
+HH Gibbs,AC Gilchrist,8
+AC Gilchrist,HH Gibbs,2
+AC Gilchrist,SB Styris,3
+SB Styris,AC Gilchrist,1
+SB Styris,Y Venugopal Rao,19
+Y Venugopal Rao,SB Styris,16
+Y Venugopal Rao,DB Ravi Teja,29
+DB Ravi Teja,Y Venugopal Rao,40
+Shahid Afridi,Y Venugopal Rao,0
+Y Venugopal Rao,Shahid Afridi,1
+Shahid Afridi,AS Yadav,0
+AS Yadav,Shahid Afridi,0
+Shahid Afridi,RP Singh,1
+RP Singh,Shahid Afridi,10
+RP Singh,PP Ojha,0
+PP Ojha,RP Singh,1
