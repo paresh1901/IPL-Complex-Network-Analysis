@@ -1,6 +1,6 @@
 ![Alt text for image](readme.png)
 
-# Comparing individual performance of Batsmen and Bowlers in IPL using a Complex Network Analysis
+# A Complex Network Analysis Approach in Cricket: Analyzing Batsmen and Bowlers in the IPL
 
 Quantifying individual performance in cricket is essential for team selection and understanding player contributions to team success. This project applies concepts from social network analysis (SNA) to analyze the performance of batsmen and bowlers using a dataset. The dataset comprises four major parts: (1) batsmen facing specific bowlers, (2) overall batting averages for batsmen,
 (3) bowlers bowling to specific batsmen, and (4) overall bowling averages for bowlers. Building on previous research, the project constructs weighted and directed networks of interactions between batsmen and bowlers. For batsmen, a performance index is calculated based on runs scored against bowlers relative to their career bowling averages. Similarly, a quality index is determined
